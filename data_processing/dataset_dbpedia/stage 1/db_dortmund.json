@@ -1,0 +1,494 @@
+[
+  {
+    "name": "rdf-schema#label>",
+    "value": "Dortmund"
+  },
+  {
+    "name": "wikiPageID>",
+    "value": "149349"
+  },
+  {
+    "name": "wikiPageRevisionID>",
+    "value": "1058921598"
+  },
+  {
+    "name": "wikiPageLength>",
+    "value": "120058"
+  },
+  {
+    "name": "abstract>",
+    "value": "Dortmund (German: [ˈdɔʁtmʊnt] (); Westphalian Low German: Düörpm [ˈdyːœɐ̯pm̩]; Latin: Tremonia) is the third-largest city in North Rhine-Westphalia after Cologne and Düsseldorf, and the eighth-largest city of Germany, with a population of 588,250 inhabitants as of 2021. It is the largest city (by area and population) of the Ruhr, Germany's largest urban area with some 5.1 million inhabitants, as well as the largest city of Westphalia. On the Emscher and Ruhr rivers (tributaries of the Rhine), it lies in the Rhine-Ruhr Metropolitan Region and is considered the administrative, commercial, and cultural center of the eastern Ruhr. Dortmund is the second-largest city in the Low German dialect area after Hamburg. Founded around 882, Dortmund became an Imperial Free City. Throughout the 13th to 14th centuries, it was the "
+  },
+  {
+    "name": "rdf-schema#comment>",
+    "value": "Dortmund (German: [ˈdɔʁtmʊnt] (); Westphalian Low German: Düörpm [ˈdyːœɐ̯pm̩]; Latin: Tremonia) is the third-largest city in North Rhine-Westphalia after Cologne and Düsseldorf, and the eighth-largest city of Germany, with a population of 588,250 inhabitants as of 2021. It is the largest city (by area and population) of the Ruhr, Germany's largest urban area with some 5.1 million inhabitants, as well as the largest city of Westphalia. On the Emscher and Ruhr rivers (tributaries of the Rhine), it lies in the Rhine-Ruhr Metropolitan Region and is considered the administrative, commercial, and cultural center of the eastern Ruhr. Dortmund is the second-largest city in the Low German dialect area after Hamburg."
+  },
+  {
+    "name": "wikiPageOutDegree>",
+    "value": "799"
+  },
+  {
+    "name": "areaMetro>",
+    "value": "7.268E9"
+  },
+  {
+    "name": "areaMetro>",
+    "value": "7268.0"
+  },
+  {
+    "name": "populationMetro>",
+    "value": "11300000"
+  },
+  {
+    "name": "populationUrban>",
+    "value": "5302179"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Lord Mayor"
+  },
+  {
+    "name": "name>",
+    "value": "Dortmund"
+  },
+  {
+    "name": "elevation>",
+    "value": "86.0"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "2.8071E8"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "280.71"
+  },
+  {
+    "name": "postalCode>",
+    "value": "44001-44388"
+  },
+  {
+    "name": "areaCode>",
+    "value": "0231, 02304"
+  },
+  {
+    "name": "licenceNumber>",
+    "value": "DO"
+  },
+  {
+    "name": "foundingYear>",
+    "value": "0882"
+  },
+  {
+    "name": "wgs84_pos#lat>",
+    "value": "51.516666666666666"
+  },
+  {
+    "name": "wgs84_pos#long>",
+    "value": "7.466666666666667"
+  },
+  {
+    "name": "point>",
+    "value": "51.516666666666666 7.466666666666667"
+  },
+  {
+    "name": "language>",
+    "value": "en"
+  },
+  {
+    "name": "name>",
+    "value": "Dortmund"
+  },
+  {
+    "name": "type>",
+    "value": "City"
+  },
+  {
+    "name": "imageCoa>",
+    "value": "Coat of arms of Dortmund.svg"
+  },
+  {
+    "name": "imageFlag>",
+    "value": "Flag of Dortmund.svg"
+  },
+  {
+    "name": "imagePlan>",
+    "value": "North rhine w DO.svg"
+  },
+  {
+    "name": "state>",
+    "value": "North Rhine-Westphalia"
+  },
+  {
+    "name": "region>",
+    "value": "Arnsberg"
+  },
+  {
+    "name": "district>",
+    "value": "Urban district"
+  },
+  {
+    "name": "elevation>",
+    "value": "86"
+  },
+  {
+    "name": "area>",
+    "value": "280.71"
+  },
+  {
+    "name": "popUrban>",
+    "value": "5302179"
+  },
+  {
+    "name": "areaMetro>",
+    "value": "7268"
+  },
+  {
+    "name": "popMetro>",
+    "value": "11300000"
+  },
+  {
+    "name": "postalCode>",
+    "value": "44001"
+  },
+  {
+    "name": "areaCode>",
+    "value": "23102304"
+  },
+  {
+    "name": "licence>",
+    "value": "DO"
+  },
+  {
+    "name": "gemeindeschlüssel>",
+    "value": "5913000"
+  },
+  {
+    "name": "leaderTerm>",
+    "value": "2020"
+  },
+  {
+    "name": "bürgermeistertitel>",
+    "value": "Lord Mayor"
+  },
+  {
+    "name": "party>",
+    "value": "SPD"
+  },
+  {
+    "name": "rulingParty>",
+    "value": "SPD"
+  },
+  {
+    "name": "year>",
+    "value": "882"
+  },
+  {
+    "name": "align>",
+    "value": "right"
+  },
+  {
+    "name": "direction>",
+    "value": "vertical"
+  },
+  {
+    "name": "image>",
+    "value": "Buildings ostenhellweg.JPG"
+  },
+  {
+    "name": "image>",
+    "value": "Boulevard Kampstraße Dortmund.jpg"
+  },
+  {
+    "name": "footer>",
+    "value": "Rebuilt and modern reconstruction around St. Reynolds"
+  },
+  {
+    "name": "metricFirst>",
+    "value": "Yes"
+  },
+  {
+    "name": "singleLine>",
+    "value": "Yes"
+  },
+  {
+    "name": "location>",
+    "value": "Dortmund"
+  },
+  {
+    "name": "janRecordHighC>",
+    "value": "14.6"
+  },
+  {
+    "name": "febRecordHighC>",
+    "value": "18.5"
+  },
+  {
+    "name": "marRecordHighC>",
+    "value": "23.5"
+  },
+  {
+    "name": "aprRecordHighC>",
+    "value": "30.2"
+  },
+  {
+    "name": "mayRecordHighC>",
+    "value": "34.4"
+  },
+  {
+    "name": "junRecordHighC>",
+    "value": "34.9"
+  },
+  {
+    "name": "julRecordHighC>",
+    "value": "36.8"
+  },
+  {
+    "name": "augRecordHighC>",
+    "value": "37.6"
+  },
+  {
+    "name": "sepRecordHighC>",
+    "value": "33.4"
+  },
+  {
+    "name": "octRecordHighC>",
+    "value": "28.6"
+  },
+  {
+    "name": "novRecordHighC>",
+    "value": "20.1"
+  },
+  {
+    "name": "decRecordHighC>",
+    "value": "16.1"
+  },
+  {
+    "name": "yearRecordHighC>",
+    "value": "37.6"
+  },
+  {
+    "name": "janHighC>",
+    "value": "4"
+  },
+  {
+    "name": "febHighC>",
+    "value": "5"
+  },
+  {
+    "name": "marHighC>",
+    "value": "9"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "13"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "18"
+  },
+  {
+    "name": "junHighC>",
+    "value": "21"
+  },
+  {
+    "name": "julHighC>",
+    "value": "22"
+  },
+  {
+    "name": "augHighC>",
+    "value": "22"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "19"
+  },
+  {
+    "name": "octHighC>",
+    "value": "15"
+  },
+  {
+    "name": "novHighC>",
+    "value": "9"
+  },
+  {
+    "name": "decHighC>",
+    "value": "5"
+  },
+  {
+    "name": "janLowC>",
+    "value": "−1"
+  },
+  {
+    "name": "febLowC>",
+    "value": "−1"
+  },
+  {
+    "name": "marLowC>",
+    "value": "2"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "4"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "8"
+  },
+  {
+    "name": "junLowC>",
+    "value": "11"
+  },
+  {
+    "name": "julLowC>",
+    "value": "13"
+  },
+  {
+    "name": "augLowC>",
+    "value": "13"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "10"
+  },
+  {
+    "name": "octLowC>",
+    "value": "7"
+  },
+  {
+    "name": "novLowC>",
+    "value": "3"
+  },
+  {
+    "name": "decLowC>",
+    "value": "1"
+  },
+  {
+    "name": "rainColour>",
+    "value": "green"
+  },
+  {
+    "name": "janRainMm>",
+    "value": "65"
+  },
+  {
+    "name": "febRainMm>",
+    "value": "56"
+  },
+  {
+    "name": "marRainMm>",
+    "value": "53"
+  },
+  {
+    "name": "aprRainMm>",
+    "value": "57"
+  },
+  {
+    "name": "mayRainMm>",
+    "value": "68"
+  },
+  {
+    "name": "junRainMm>",
+    "value": "78"
+  },
+  {
+    "name": "julRainMm>",
+    "value": "93"
+  },
+  {
+    "name": "augRainMm>",
+    "value": "93"
+  },
+  {
+    "name": "sepRainMm>",
+    "value": "67"
+  },
+  {
+    "name": "octRainMm>",
+    "value": "60"
+  },
+  {
+    "name": "novRainMm>",
+    "value": "71"
+  },
+  {
+    "name": "decRainMm>",
+    "value": "77"
+  },
+  {
+    "name": "janRainDays>",
+    "value": "19"
+  },
+  {
+    "name": "febRainDays>",
+    "value": "17"
+  },
+  {
+    "name": "marRainDays>",
+    "value": "14"
+  },
+  {
+    "name": "aprRainDays>",
+    "value": "16"
+  },
+  {
+    "name": "mayRainDays>",
+    "value": "14"
+  },
+  {
+    "name": "junRainDays>",
+    "value": "14"
+  },
+  {
+    "name": "julRainDays>",
+    "value": "17"
+  },
+  {
+    "name": "augRainDays>",
+    "value": "16"
+  },
+  {
+    "name": "sepRainDays>",
+    "value": "15"
+  },
+  {
+    "name": "octRainDays>",
+    "value": "17"
+  },
+  {
+    "name": "novRainDays>",
+    "value": "19"
+  },
+  {
+    "name": "decRainDays>",
+    "value": "19"
+  },
+  {
+    "name": "source>",
+    "value": "Wetter Kontor"
+  },
+  {
+    "name": "image>",
+    "value": "Dortmund Oper Kaufmann.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "195"
+  },
+  {
+    "name": "caption>",
+    "value": "The new opera house is one of the biggest theaters in Germany."
+  },
+  {
+    "name": "image>",
+    "value": "Dortmund Konzerthaus.JPG"
+  },
+  {
+    "name": "caption>",
+    "value": "The Konzerthaus Dortmund is one of the most outstanding concert halls in Europe."
+  },
+  {
+    "name": "centre>",
+    "value": "Dortmund"
+  }
+]

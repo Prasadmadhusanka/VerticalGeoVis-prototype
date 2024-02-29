@@ -1,0 +1,867 @@
+  {
+    "name": "Dortmund",
+    "children": [
+      {
+        "name": "Weather",
+        "children": [
+          {
+            "name": "January",
+            "children": [
+              {
+                "name": "Recorded High temperature in January",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in January",
+                    "attribute_value": [
+                      "14.6"
+                    ],
+                    "value": 9430
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in January",
+                "children": [
+                  {
+                    "name": "High Temperature in January",
+                    "attribute_value": [
+                      "4"
+                    ],
+                    "value": 4257
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in January",
+                "children": [
+                  {
+                    "name": "Low Temperature in January",
+                    "attribute_value": [
+                      "−1"
+                    ],
+                    "value": 9825
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "February",
+            "children": [
+              {
+                "name": "Recorded High temperature in February",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in February",
+                    "attribute_value": [
+                      "18.5"
+                    ],
+                    "value": 1633
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in February",
+                "children": [
+                  {
+                    "name": "High Temperature in February",
+                    "attribute_value": [
+                      "5"
+                    ],
+                    "value": 4259
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in February",
+                "children": [
+                  {
+                    "name": "Low Temperature in February",
+                    "attribute_value": [
+                      "−1"
+                    ],
+                    "value": 4210
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "March",
+            "children": [
+              {
+                "name": "Recorded High temperature in March",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in March",
+                    "attribute_value": [
+                      "23.5"
+                    ],
+                    "value": 12537
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in March",
+                "children": [
+                  {
+                    "name": "High Temperature in March",
+                    "attribute_value": [
+                      "9"
+                    ],
+                    "value": 9317
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in March",
+                "children": [
+                  {
+                    "name": "Low Temperature in March",
+                    "attribute_value": [
+                      "2"
+                    ],
+                    "value": 14019
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "April",
+            "children": [
+              {
+                "name": "Recorded High temperature in April",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in April",
+                    "attribute_value": [
+                      "30.2"
+                    ],
+                    "value": 14243
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in April",
+                "children": [
+                  {
+                    "name": "High Temperature in April",
+                    "attribute_value": [
+                      "13"
+                    ],
+                    "value": 2576
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in April",
+                "children": [
+                  {
+                    "name": "Low Temperature in April",
+                    "attribute_value": [
+                      "4"
+                    ],
+                    "value": 7961
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "May",
+            "children": [
+              {
+                "name": "Recorded High temperature in May",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in May",
+                    "attribute_value": [
+                      "34.4"
+                    ],
+                    "value": 2255
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in May",
+                "children": [
+                  {
+                    "name": "High Temperature in May",
+                    "attribute_value": [
+                      "18"
+                    ],
+                    "value": 7296
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in May",
+                "children": [
+                  {
+                    "name": "Low Temperature in May",
+                    "attribute_value": [
+                      "8"
+                    ],
+                    "value": 13699
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "June",
+            "children": [
+              {
+                "name": "Recorded High temperature in June",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in June",
+                    "attribute_value": [
+                      "34.9"
+                    ],
+                    "value": 4458
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in June",
+                "children": [
+                  {
+                    "name": "High Temperature in June",
+                    "attribute_value": [
+                      "21"
+                    ],
+                    "value": 5076
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in June",
+                "children": [
+                  {
+                    "name": "Low Temperature in June",
+                    "attribute_value": [
+                      "11"
+                    ],
+                    "value": 6347
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "July",
+            "children": [
+              {
+                "name": "Recorded High temperature in July",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in July",
+                    "attribute_value": [
+                      "36.8"
+                    ],
+                    "value": 7488
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in July",
+                "children": [
+                  {
+                    "name": "High Temperature in July",
+                    "attribute_value": [
+                      "22"
+                    ],
+                    "value": 2305
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in July",
+                "children": [
+                  {
+                    "name": "Low Temperature in July",
+                    "attribute_value": [
+                      "13"
+                    ],
+                    "value": 6354
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "August",
+            "children": [
+              {
+                "name": "Recorded High temperature in August",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in August",
+                    "attribute_value": [
+                      "37.6"
+                    ],
+                    "value": 9352
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in August",
+                "children": [
+                  {
+                    "name": "High Temperature in August",
+                    "attribute_value": [
+                      "22"
+                    ],
+                    "value": 10478
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in August",
+                "children": [
+                  {
+                    "name": "Low Temperature in August",
+                    "attribute_value": [
+                      "13"
+                    ],
+                    "value": 1469
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "September",
+            "children": [
+              {
+                "name": "Recorded High temperature in September",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in September",
+                    "attribute_value": [
+                      "33.4"
+                    ],
+                    "value": 2266
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in September",
+                "children": [
+                  {
+                    "name": "High Temperature in September",
+                    "attribute_value": [
+                      "19"
+                    ],
+                    "value": 14096
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in September",
+                "children": [
+                  {
+                    "name": "Low Temperature in September",
+                    "attribute_value": [
+                      "10"
+                    ],
+                    "value": 4495
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "October",
+            "children": [
+              {
+                "name": "Recorded High temperature in October",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in October",
+                    "attribute_value": [
+                      "28.6"
+                    ],
+                    "value": 8448
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in October",
+                "children": [
+                  {
+                    "name": "High Temperature in October",
+                    "attribute_value": [
+                      "15"
+                    ],
+                    "value": 11792
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in October",
+                "children": [
+                  {
+                    "name": "Low Temperature in October",
+                    "attribute_value": [
+                      "7"
+                    ],
+                    "value": 10228
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "November",
+            "children": [
+              {
+                "name": "Recorded High temperature in November",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in November",
+                    "attribute_value": [
+                      "20.1"
+                    ],
+                    "value": 11285
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in November",
+                "children": [
+                  {
+                    "name": "High Temperature in November",
+                    "attribute_value": [
+                      "9"
+                    ],
+                    "value": 2581
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in November",
+                "children": [
+                  {
+                    "name": "Low Temperature in November",
+                    "attribute_value": [
+                      "3"
+                    ],
+                    "value": 7214
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "December",
+            "children": [
+              {
+                "name": "Recorded High temperature in December",
+                "children": [
+                  {
+                    "name": "Recorded High temperature in December",
+                    "attribute_value": [
+                      "16.1"
+                    ],
+                    "value": 5905
+                  }
+                ]
+              },
+              {
+                "name": "High Temperature in December",
+                "children": [
+                  {
+                    "name": "High Temperature in December",
+                    "attribute_value": [
+                      "5"
+                    ],
+                    "value": 11208
+                  }
+                ]
+              },
+              {
+                "name": "Low Temperature in December",
+                "children": [
+                  {
+                    "name": "Low Temperature in December",
+                    "attribute_value": [
+                      "1"
+                    ],
+                    "value": 9842
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Source",
+            "children": [
+              {
+                "name": "Source",
+                "attribute_value": [
+                  "Wetter Kontor"
+                ],
+                "value": 12189
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Administrative",
+        "children": [
+          {
+            "name": "Population Metro",
+            "children": [
+              {
+                "name": "Population Metro",
+                "attribute_value": [
+                  "11300000"
+                ],
+                "value": 13100
+              }
+            ]
+          },
+          {
+            "name": "Population Urban",
+            "children": [
+              {
+                "name": "Population Urban",
+                "attribute_value": [
+                  "5302179"
+                ],
+                "value": 6817
+              }
+            ]
+          },
+          {
+            "name": "Total Area",
+            "children": [
+              {
+                "name": "Total Area",
+                "attribute_value": [
+                  "2.8071E8",
+                  "280.71"
+                ],
+                "value": 6142
+              }
+            ]
+          },
+          {
+            "name": "Postal Codes",
+            "children": [
+              {
+                "name": "Postal Codes",
+                "attribute_value": [
+                  "44001-44388",
+                  "44001"
+                ],
+                "value": 3760
+              }
+            ]
+          },
+          {
+            "name": "Area Code",
+            "children": [
+              {
+                "name": "Area Code",
+                "attribute_value": [
+                  "0231, 02304",
+                  "23102304"
+                ],
+                "value": 1532
+              }
+            ]
+          },
+          {
+            "name": "Vehicle License Number",
+            "children": [
+              {
+                "name": "Vehicle License Number",
+                "attribute_value": [
+                  "DO"
+                ],
+                "value": 9613
+              }
+            ]
+          },
+          {
+            "name": "City Name",
+            "children": [
+              {
+                "name": "City Name",
+                "attribute_value": [
+                  "Dortmund",
+                  "Dortmund"
+                ],
+                "value": 7607
+              }
+            ]
+          },
+          {
+            "name": "Image name of Flag",
+            "children": [
+              {
+                "name": "Image name of Flag",
+                "attribute_value": [
+                  "Flag of Dortmund.svg"
+                ],
+                "value": 3540
+              }
+            ]
+          },
+          {
+            "name": "Federal State",
+            "children": [
+              {
+                "name": "Federal State",
+                "attribute_value": [
+                  "North Rhine-Westphalia"
+                ],
+                "value": 14705
+              }
+            ]
+          },
+          {
+            "name": "Region",
+            "children": [
+              {
+                "name": "Region",
+                "attribute_value": [
+                  "Arnsberg"
+                ],
+                "value": 5460
+              }
+            ]
+          },
+          {
+            "name": "Website",
+            "children": [
+              {
+                "name": "Website",
+                "attribute_value": [
+                  "https://www.dortmund.de/"
+                ],
+                "value": 10369
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Geography",
+        "children": [
+          {
+            "name": "Elevation",
+            "children": [
+              {
+                "name": "Elevation",
+                "attribute_value": [
+                  "86.0",
+                  "86"
+                ],
+                "value": 4986
+              }
+            ]
+          },
+          {
+            "name": "WGS84 Latitude",
+            "children": [
+              {
+                "name": "WGS84 Latitude",
+                "attribute_value": [
+                  "51.516666666666666"
+                ],
+                "value": 6859
+              }
+            ]
+          },
+          {
+            "name": "WGS84 Longitude",
+            "children": [
+              {
+                "name": "WGS84 Longitude",
+                "attribute_value": [
+                  "7.466666666666667"
+                ],
+                "value": 11333
+              }
+            ]
+          },
+          {
+            "name": "GPS Coordinates (WGS84)",
+            "children": [
+              {
+                "name": "GPS Coordinates (WGS84)",
+                "attribute_value": [
+                  "51.516666666666666 7.466666666666667"
+                ],
+                "value": 2852
+              }
+            ]
+          },
+          {
+            "name": "Bounded by -South",
+            "children": [
+              {
+                "name": "Bounded by -South",
+                "attribute_value": [
+                  "Hagen",
+                  "Koblenz"
+                ],
+                "value": 5280
+              }
+            ]
+          },
+          {
+            "name": "Bounded by -north west",
+            "children": [
+              {
+                "name": "Bounded by -north west",
+                "attribute_value": [
+                  "Winterswijk",
+                  "Bocholt"
+                ],
+                "value": 10482
+              }
+            ]
+          },
+          {
+            "name": "Bounded by -north",
+            "children": [
+              {
+                "name": "Bounded by -north",
+                "attribute_value": [
+                  "Münster"
+                ],
+                "value": 1640
+              }
+            ]
+          },
+          {
+            "name": "Bounded by -South West",
+            "children": [
+              {
+                "name": "Bounded by -South West",
+                "attribute_value": [
+                  "Cologne",
+                  "Düsseldorf",
+                  "Wuppertal"
+                ],
+                "value": 5280
+              }
+            ]
+          },
+          {
+            "name": "Bounded by -South East",
+            "children": [
+              {
+                "name": "Bounded by -South East",
+                "attribute_value": [
+                  "Siegen",
+                  "Marburg"
+                ],
+                "value": 762
+              }
+            ]
+          },
+          {
+            "name": "Bounded by -East",
+            "children": [
+              {
+                "name": "Bounded by -East",
+                "attribute_value": [
+                  "Paderborn",
+                  "Kassel"
+                ],
+                "value": 6461
+              }
+            ]
+          },
+          {
+            "name": "Bounded by -North East",
+            "children": [
+              {
+                "name": "Bounded by -North East",
+                "attribute_value": [
+                  "Bielefeld",
+                  "Hamm"
+                ],
+                "value": 4891
+              }
+            ]
+          },
+          {
+            "name": "Bounded by -West",
+            "children": [
+              {
+                "name": "Bounded by -West",
+                "attribute_value": [
+                  "Bochum",
+                  "Duisburg",
+                  "Essen"
+                ],
+                "value": 1042
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Political",
+        "children": [
+          {
+            "name": "Ruling Party",
+            "children": [
+              {
+                "name": "Ruling Party",
+                "attribute_value": [
+                  "SPD"
+                ],
+                "value": 6175
+              }
+            ]
+          },
+          {
+            "name": "Leader Name",
+            "children": [
+              {
+                "name": "Leader Name",
+                "attribute_value": [
+                  "Thomas_Westphal"
+                ],
+                "value": 11251
+              }
+            ]
+          },
+          {
+            "name": "Title of Leader",
+            "children": [
+              {
+                "name": "Title of Leader",
+                "attribute_value": [
+                  "Lord Mayor"
+                ],
+                "value": 10402
+              }
+            ]
+          },
+          {
+            "name": "Party of Leader",
+            "children": [
+              {
+                "name": "Party of Leader",
+                "attribute_value": [
+                  "Social_Democratic_Party_of_Germany"
+                ],
+                "value": 2333
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

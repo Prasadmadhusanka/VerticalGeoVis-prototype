@@ -1,0 +1,594 @@
+[
+  {
+    "name": "rdf-schema#label>",
+    "value": "Munich"
+  },
+  {
+    "name": "wikiPageID>",
+    "value": "19058"
+  },
+  {
+    "name": "wikiPageRevisionID>",
+    "value": "1059466718"
+  },
+  {
+    "name": "wikiPageLength>",
+    "value": "171713"
+  },
+  {
+    "name": "abstract>",
+    "value": "Munich ( MEW-nik; German: München [ˈmʏnçn̩] (); Bavarian: Minga [ˈmɪŋ(ː)ɐ] ()) is the capital and most populous city of Bavaria. With a population of 1,558,395 inhabitants as of 31 July 2020, it is the third-largest city in Germany, after Berlin and Hamburg, and thus the largest which does not constitute its own state, as well as the 11th-largest city in the European Union. The city's metropolitan region is home to 6 million people. Straddling the banks of the River Isar (a tributary of the Danube) north of the Bavarian Alps, it is the seat of the Bavarian administrative region of Upper Bavaria, while being the most densely populated municipality in Germany (4,500 people per km2). Munich is the second-largest city in the Bavarian dialect area, after the Austrian capital of Vienna. The city was first mentioned in 1158. Catholic Munich strongly resisted the Reformation and was a political point of divergence during the resulting Thirty Years' War, but remained physically untouched despite an occupation by the Protestant Swedes. Once Bavaria was established as a sovereign kingdom in 1806, Munich became a major European centre of arts, architecture, culture and science. In 1918, during the German Revolution, the ruling house of Wittelsbach, which had governed Bavaria since 1180, was forced to abdicate in Munich and a short-lived socialist republic was declared. In the 1920s, Munich became home to several political factions, among them the NSDAP. After the Nazis' rise to power, Munich was declared their "
+  },
+  {
+    "name": "rdf-schema#comment>",
+    "value": "Munich ( MEW-nik; German: München [ˈmʏnçn̩] (); Bavarian: Minga [ˈmɪŋ(ː)ɐ] ()) is the capital and most populous city of Bavaria. With a population of 1,558,395 inhabitants as of 31 July 2020, it is the third-largest city in Germany, after Berlin and Hamburg, and thus the largest which does not constitute its own state, as well as the 11th-largest city in the European Union. The city's metropolitan region is home to 6 million people."
+  },
+  {
+    "name": "wikiPageOutDegree>",
+    "value": "1345"
+  },
+  {
+    "name": "populationMetro>",
+    "value": "5991144"
+  },
+  {
+    "name": "populationUrban>",
+    "value": "2606021"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Oberbürgermeister"
+  },
+  {
+    "name": "name>",
+    "value": "Munich"
+  },
+  {
+    "name": "elevation>",
+    "value": "520.0"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "3.1071E8"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "310.71"
+  },
+  {
+    "name": "populationTotal>",
+    "value": "100001"
+  },
+  {
+    "name": "postalCode>",
+    "value": "80331–81929"
+  },
+  {
+    "name": "areaCode>",
+    "value": "089"
+  },
+  {
+    "name": "licenceNumber>",
+    "value": "M"
+  },
+  {
+    "name": "wgs84_pos#lat>",
+    "value": "48.1375"
+  },
+  {
+    "name": "wgs84_pos#long>",
+    "value": "11.575"
+  },
+  {
+    "name": "point>",
+    "value": "48.1375 11.575"
+  },
+  {
+    "name": "language>",
+    "value": "en"
+  },
+  {
+    "name": "imagesize>",
+    "value": "300"
+  },
+  {
+    "name": "bürgermeistertitel>",
+    "value": "Oberbürgermeister"
+  },
+  {
+    "name": "gemeindeschlüssel>",
+    "value": "9162000"
+  },
+  {
+    "name": "popUrban>",
+    "value": "2606021"
+  },
+  {
+    "name": "popMetro>",
+    "value": "5991144"
+  },
+  {
+    "name": "name>",
+    "value": "Munich"
+  },
+  {
+    "name": "type>",
+    "value": "City"
+  },
+  {
+    "name": "imageCoa>",
+    "value": "Muenchen Kleines Stadtwappen.svg"
+  },
+  {
+    "name": "imageFlag>",
+    "value": "Flag of Munich .svg"
+  },
+  {
+    "name": "state>",
+    "value": "Bavaria"
+  },
+  {
+    "name": "region>",
+    "value": "Upper Bavaria"
+  },
+  {
+    "name": "district>",
+    "value": "urban"
+  },
+  {
+    "name": "elevation>",
+    "value": "520"
+  },
+  {
+    "name": "area>",
+    "value": "310.71"
+  },
+  {
+    "name": "population>",
+    "value": "100001"
+  },
+  {
+    "name": "postalCode>",
+    "value": "80331"
+  },
+  {
+    "name": "areaCode>",
+    "value": "89"
+  },
+  {
+    "name": "licence>",
+    "value": "M"
+  },
+  {
+    "name": "leaderTerm>",
+    "value": "2020"
+  },
+  {
+    "name": "party>",
+    "value": "SPD"
+  },
+  {
+    "name": "rulingParty>",
+    "value": "Green"
+  },
+  {
+    "name": "rulingParty>",
+    "value": "SPD"
+  },
+  {
+    "name": "yearOfFirstMention>",
+    "value": "1158"
+  },
+  {
+    "name": "location>",
+    "value": "32100.0"
+  },
+  {
+    "name": "metricFirst>",
+    "value": "yes"
+  },
+  {
+    "name": "singleLine>",
+    "value": "yes"
+  },
+  {
+    "name": "janRecordHighC>",
+    "value": "18.9"
+  },
+  {
+    "name": "febRecordHighC>",
+    "value": "21.4"
+  },
+  {
+    "name": "marRecordHighC>",
+    "value": "24"
+  },
+  {
+    "name": "aprRecordHighC>",
+    "value": "32.2"
+  },
+  {
+    "name": "mayRecordHighC>",
+    "value": "31.8"
+  },
+  {
+    "name": "junRecordHighC>",
+    "value": "35.2"
+  },
+  {
+    "name": "julRecordHighC>",
+    "value": "37.5"
+  },
+  {
+    "name": "augRecordHighC>",
+    "value": "37"
+  },
+  {
+    "name": "sepRecordHighC>",
+    "value": "31.8"
+  },
+  {
+    "name": "octRecordHighC>",
+    "value": "28.2"
+  },
+  {
+    "name": "novRecordHighC>",
+    "value": "24.2"
+  },
+  {
+    "name": "decRecordHighC>",
+    "value": "21.7"
+  },
+  {
+    "name": "janHighC>",
+    "value": "3.5"
+  },
+  {
+    "name": "febHighC>",
+    "value": "5"
+  },
+  {
+    "name": "marHighC>",
+    "value": "9.5"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "14.2"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "19.1"
+  },
+  {
+    "name": "junHighC>",
+    "value": "21.9"
+  },
+  {
+    "name": "julHighC>",
+    "value": "24.4"
+  },
+  {
+    "name": "augHighC>",
+    "value": "23.9"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "19.4"
+  },
+  {
+    "name": "octHighC>",
+    "value": "14.3"
+  },
+  {
+    "name": "novHighC>",
+    "value": "7.7"
+  },
+  {
+    "name": "decHighC>",
+    "value": "4.2"
+  },
+  {
+    "name": "yearHighC>",
+    "value": "13.9"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "0.3"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "1.4"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "5.3"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "9.4"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "14.3"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "17.2"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "19.4"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "18.9"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "14.7"
+  },
+  {
+    "name": "octMeanC>",
+    "value": "10.1"
+  },
+  {
+    "name": "novMeanC>",
+    "value": "4.4"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "1.3"
+  },
+  {
+    "name": "yearMeanC>",
+    "value": "9.7"
+  },
+  {
+    "name": "janLowC>",
+    "value": "-2.5"
+  },
+  {
+    "name": "febLowC>",
+    "value": "-1.9"
+  },
+  {
+    "name": "marLowC>",
+    "value": "1.6"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "4.9"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "9.4"
+  },
+  {
+    "name": "junLowC>",
+    "value": "12.5"
+  },
+  {
+    "name": "julLowC>",
+    "value": "14.5"
+  },
+  {
+    "name": "augLowC>",
+    "value": "14.2"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "10.5"
+  },
+  {
+    "name": "octLowC>",
+    "value": "6.6"
+  },
+  {
+    "name": "novLowC>",
+    "value": "1.7"
+  },
+  {
+    "name": "decLowC>",
+    "value": "-1.2"
+  },
+  {
+    "name": "yearLowC>",
+    "value": "5.9"
+  },
+  {
+    "name": "janRecordLowC>",
+    "value": "-22.2"
+  },
+  {
+    "name": "febRecordLowC>",
+    "value": "-25.4"
+  },
+  {
+    "name": "marRecordLowC>",
+    "value": "-16"
+  },
+  {
+    "name": "aprRecordLowC>",
+    "value": "-6"
+  },
+  {
+    "name": "mayRecordLowC>",
+    "value": "-2.3"
+  },
+  {
+    "name": "junRecordLowC>",
+    "value": "1"
+  },
+  {
+    "name": "julRecordLowC>",
+    "value": "6.5"
+  },
+  {
+    "name": "augRecordLowC>",
+    "value": "4.8"
+  },
+  {
+    "name": "sepRecordLowC>",
+    "value": "0.6"
+  },
+  {
+    "name": "octRecordLowC>",
+    "value": "-4.5"
+  },
+  {
+    "name": "novRecordLowC>",
+    "value": "-11"
+  },
+  {
+    "name": "decRecordLowC>",
+    "value": "-20.7"
+  },
+  {
+    "name": "precipitationColour>",
+    "value": "green"
+  },
+  {
+    "name": "janPrecipitationMm>",
+    "value": "48"
+  },
+  {
+    "name": "febPrecipitationMm>",
+    "value": "46"
+  },
+  {
+    "name": "marPrecipitationMm>",
+    "value": "65"
+  },
+  {
+    "name": "aprPrecipitationMm>",
+    "value": "65"
+  },
+  {
+    "name": "mayPrecipitationMm>",
+    "value": "101"
+  },
+  {
+    "name": "junPrecipitationMm>",
+    "value": "118"
+  },
+  {
+    "name": "julPrecipitationMm>",
+    "value": "122"
+  },
+  {
+    "name": "augPrecipitationMm>",
+    "value": "115"
+  },
+  {
+    "name": "sepPrecipitationMm>",
+    "value": "75"
+  },
+  {
+    "name": "octPrecipitationMm>",
+    "value": "65"
+  },
+  {
+    "name": "novPrecipitationMm>",
+    "value": "61"
+  },
+  {
+    "name": "decPrecipitationMm>",
+    "value": "65"
+  },
+  {
+    "name": "yearPrecipitationMm>",
+    "value": "944"
+  },
+  {
+    "name": "janSun>",
+    "value": "79"
+  },
+  {
+    "name": "febSun>",
+    "value": "96"
+  },
+  {
+    "name": "marSun>",
+    "value": "133"
+  },
+  {
+    "name": "aprSun>",
+    "value": "170"
+  },
+  {
+    "name": "maySun>",
+    "value": "209"
+  },
+  {
+    "name": "junSun>",
+    "value": "210"
+  },
+  {
+    "name": "julSun>",
+    "value": "238"
+  },
+  {
+    "name": "augSun>",
+    "value": "220"
+  },
+  {
+    "name": "sepSun>",
+    "value": "163"
+  },
+  {
+    "name": "octSun>",
+    "value": "125"
+  },
+  {
+    "name": "novSun>",
+    "value": "75"
+  },
+  {
+    "name": "decSun>",
+    "value": "59"
+  },
+  {
+    "name": "source>",
+    "value": "SKlima.de"
+  },
+  {
+    "name": "voy>",
+    "value": "Munich"
+  },
+  {
+    "name": "s>",
+    "value": "Category:Munich"
+  },
+  {
+    "name": "centre>",
+    "value": "Munich"
+  },
+  {
+    "name": "northeast>",
+    "value": "Prague ,"
+  },
+  {
+    "name": "east>",
+    "value": "Linz"
+  },
+  {
+    "name": "southeast>",
+    "value": "Salzburg"
+  },
+  {
+    "name": "south>",
+    "value": "Innsbruck ,"
+  },
+  {
+    "name": "south>",
+    "value": "Bolzano"
+  },
+  {
+    "name": "southwest>",
+    "value": "Vaduz ,"
+  },
+  {
+    "name": "southwest>",
+    "value": "Zürich"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "name": "rdf-schema#label>",
+    "value": "Stuttgart"
+  },
+  {
+    "name": "wikiPageID>",
+    "value": "28565"
+  },
+  {
+    "name": "wikiPageRevisionID>",
+    "value": "1059842497"
+  },
+  {
+    "name": "wikiPageLength>",
+    "value": "163235"
+  },
+  {
+    "name": "abstract>",
+    "value": "Stuttgart (German: [ˈʃtʊtɡaʁt] (); Swabian: Schduagert [ˈʒ̊d̥ua̯ɡ̊ɛʕd̥]; names in other languages) is the capital and largest city of the German state of Baden-Württemberg. It is located on the Neckar river in a fertile valley known locally as the "
+  },
+  {
+    "name": "rdf-schema#comment>",
+    "value": "Stuttgart (German: [ˈʃtʊtɡaʁt] (); Swabian: Schduagert [ˈʒ̊d̥ua̯ɡ̊ɛʕd̥]; names in other languages) is the capital and largest city of the German state of Baden-Württemberg. It is located on the Neckar river in a fertile valley known locally as the "
+  },
+  {
+    "name": "wikiPageOutDegree>",
+    "value": "1057"
+  },
+  {
+    "name": "populationMetro>",
+    "value": "5300000"
+  },
+  {
+    "name": "populationUrban>",
+    "value": "2787724"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Oberbürgermeister"
+  },
+  {
+    "name": "elevation>",
+    "value": "245.0"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "2.0733E8"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "207.33"
+  },
+  {
+    "name": "populationTotal>",
+    "value": "100001"
+  },
+  {
+    "name": "postalCode>",
+    "value": "70173–70619"
+  },
+  {
+    "name": "areaCode>",
+    "value": "0711"
+  },
+  {
+    "name": "licenceNumber>",
+    "value": "S"
+  },
+  {
+    "name": "foundingYear>",
+    "value": "0010"
+  },
+  {
+    "name": "wgs84_pos#lat>",
+    "value": "48.782"
+  },
+  {
+    "name": "wgs84_pos#long>",
+    "value": "9.184"
+  },
+  {
+    "name": "point>",
+    "value": "48.782 9.184"
+  },
+  {
+    "name": "language>",
+    "value": "en"
+  },
+  {
+    "name": "imagePlan>",
+    "value": "Baden-Württemberg S.svg"
+  },
+  {
+    "name": "plantext>",
+    "value": "Location within Baden-Württemberg"
+  },
+  {
+    "name": "imageCaption>",
+    "value": "Clockwise from top left: Staatsoper Stuttgart, Mercedes-Benz Museum, Schloss Solitude, Kunstmuseum Stuttgart, Neues Schloss, Marquardtbau, Königsbau, Stadtbibliothek"
+  },
+  {
+    "name": "bürgermeistertitel>",
+    "value": "Oberbürgermeister"
+  },
+  {
+    "name": "gemeindeschlüssel>",
+    "value": "8111000"
+  },
+  {
+    "name": "year>",
+    "value": "10"
+  },
+  {
+    "name": "type>",
+    "value": "City"
+  },
+  {
+    "name": "imageFlag>",
+    "value": "Flag of Stuttgart.svg"
+  },
+  {
+    "name": "imageCoa>",
+    "value": "Coat of arms of Stuttgart.svg"
+  },
+  {
+    "name": "state>",
+    "value": "Baden-Württemberg"
+  },
+  {
+    "name": "region>",
+    "value": "Stuttgart"
+  },
+  {
+    "name": "elevation>",
+    "value": "245"
+  },
+  {
+    "name": "area>",
+    "value": "207.33"
+  },
+  {
+    "name": "population>",
+    "value": "100001"
+  },
+  {
+    "name": "popUrban>",
+    "value": "2787724"
+  },
+  {
+    "name": "popMetro>",
+    "value": "5300000"
+  },
+  {
+    "name": "postalCode>",
+    "value": "70173"
+  },
+  {
+    "name": "areaCode>",
+    "value": "711"
+  },
+  {
+    "name": "licence>",
+    "value": "S"
+  },
+  {
+    "name": "divisions>",
+    "value": "23"
+  },
+  {
+    "name": "mayor>",
+    "value": "Frank Nopper"
+  },
+  {
+    "name": "leaderTerm>",
+    "value": "2020"
+  },
+  {
+    "name": "party>",
+    "value": "CDU"
+  },
+  {
+    "name": "width>",
+    "value": "23"
+  },
+  {
+    "name": "align>",
+    "value": "left"
+  },
+  {
+    "name": "bgcolor>",
+    "value": "#B0C4DE"
+  },
+  {
+    "name": "title>",
+    "value": "Historical affiliations"
+  },
+  {
+    "name": "quote>",
+    "value": "1990"
+  },
+  {
+    "name": "quote>",
+    "value": "1949"
+  },
+  {
+    "name": "quote>",
+    "value": "1945"
+  },
+  {
+    "name": "quote>",
+    "value": "1933"
+  },
+  {
+    "name": "quote>",
+    "value": "1918"
+  },
+  {
+    "name": "quote>",
+    "value": "1871"
+  },
+  {
+    "name": "quote>",
+    "value": "Kingdom of Württemberg 1805–1918"
+  },
+  {
+    "name": "quote>",
+    "value": "Electorate of Württemberg 1803–1805"
+  },
+  {
+    "name": "quote>",
+    "value": "Duchy of Württemberg 1495–1803"
+  },
+  {
+    "name": "quote>",
+    "value": "Duchy of Swabia 915–1313"
+  },
+  {
+    "name": "quote>",
+    "value": "83"
+  },
+  {
+    "name": "commons>",
+    "value": "y"
+  },
+  {
+    "name": "voy>",
+    "value": "y"
+  },
+  {
+    "name": "q>",
+    "value": "y"
+  },
+  {
+    "name": "b>",
+    "value": "y"
+  },
+  {
+    "name": "v>",
+    "value": "y"
+  },
+  {
+    "name": "s>",
+    "value": "y"
+  },
+  {
+    "name": "centre>",
+    "value": "Stuttgart"
+  },
+  {
+    "name": "north>",
+    "value": "Heilbronn, Frankfurt, Kornwestheim, and Ludwigsburg"
+  },
+  {
+    "name": "east>",
+    "value": "Aalen, Fellbach, and Waiblingen"
+  },
+  {
+    "name": "southeast>",
+    "value": "Ulm, Augsburg, Munich, and Esslingen am Neckar"
+  },
+  {
+    "name": "south>",
+    "value": "Tübingen and Reutlingen, Zürich, Filderstadt, and Leinfelden-Echterdingen"
+  },
+  {
+    "name": "southwest>",
+    "value": "Freiburg, Freudenstadt, Horb, Böblingen, and Sindelfingen"
+  },
+  {
+    "name": "west>",
+    "value": "Karlsruhe, Baden-Baden, Pforzheim, and Leonberg"
+  },
+  {
+    "name": "portal>",
+    "value": "Germany"
+  },
+  {
+    "name": "portal>",
+    "value": "European Union"
+  },
+  {
+    "name": "portal>",
+    "value": "Europe"
+  },
+  {
+    "name": "title>",
+    "value": "World Gymnaestrada host city"
+  },
+  {
+    "name": "years>",
+    "value": "1961"
+  }
+]

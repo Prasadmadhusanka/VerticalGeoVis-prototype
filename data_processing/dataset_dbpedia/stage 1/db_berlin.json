@@ -1,0 +1,350 @@
+[
+  {
+    "name": "rdf-schema#label>",
+    "value": "Berlin"
+  },
+  {
+    "name": "wikiPageID>",
+    "value": "3354"
+  },
+  {
+    "name": "wikiPageRevisionID>",
+    "value": "1058637850"
+  },
+  {
+    "name": "wikiPageLength>",
+    "value": "186565"
+  },
+  {
+    "name": "abstract>",
+    "value": "Berlin ( bur-LIN, German: [bɛʁˈliːn] ()) is the capital and largest city of Germany by both area and population. Its 3.7 million inhabitants make it the European Union's most populous city, according to population within city limits. One of Germany's sixteen constituent states, Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital. Berlin's urban area, which has a population of around 4.5 million, is the second most populous urban area in Germany after the Ruhr. The Berlin-Brandenburg capital region has over six million inhabitants and is Germany's third-largest metropolitan region after the Rhine-Ruhr and Rhine-Main regions. Berlin straddles the banks of the Spree, which flows into the Havel (a tributary of the Elbe) in the western borough of Spandau. Among the city's main topographical features are the many lakes in the western and southeastern boroughs formed by the Spree, Havel and Dahme, the largest of which is Lake Müggelsee. Due to its location in the European Plain, Berlin is influenced by a temperate seasonal climate. About one-third of the city's area is composed of forests, parks, gardens, rivers, canals and lakes. The city lies in the Central German dialect area, the Berlin dialect being a variant of the Lusatian-New Marchian dialects. First documented in the 13th century and at the crossing of two important historic trade routes, Berlin became the capital of the Margraviate of Brandenburg (1417–1701), the Kingdom of Prussia (1701–1918), the German Empire (1871–1918), the Weimar Republic (1919–1933), and the Third Reich (1933–1945). Berlin in the 1920s was the third-largest municipality in the world. After World War II and its subsequent occupation by the victorious countries, the city was divided; West Berlin became a de facto exclave of West Germany, surrounded by the Berlin Wall (from August 1961 to November 1989) and East German territory. East Berlin was declared capital of East Germany, while Bonn became the West German capital. Following German reunification in 1990, Berlin once again became the capital of all of Germany. Berlin is a world city of culture, politics, media and science. Its economy is based on high-tech firms and the service sector, encompassing a diverse range of creative industries, research facilities, media corporations and convention venues. Berlin serves as a continental hub for air and rail traffic and has a highly complex public transportation network. The metropolis is a popular tourist destination. Significant industries also include IT, pharmaceuticals, biomedical engineering, clean tech, biotechnology, construction and electronics. Berlin is home to world-renowned universities such as the Humboldt University, the Technical University, the Free University, the University of the Arts, ESMT Berlin and Bard College Berlin. Its Zoological Garden is the most visited zoo in Europe and one of the most popular worldwide. With Babelsberg being the world's first large-scale movie studio complex, Berlin is an increasingly popular location for international film productions. The city is well known for its festivals, diverse architecture, nightlife, contemporary arts and a very high quality of living. Since the 2000s Berlin has seen the emergence of a cosmopolitan entrepreneurial scene. Berlin contains three World Heritage Sites: Museum Island; the Palaces and Parks of Potsdam and Berlin; and the Berlin Modernism Housing Estates. Other landmarks include the Brandenburg Gate, the Reichstag building, Potsdamer Platz, the Memorial to the Murdered Jews of Europe, the Berlin Wall Memorial, the East Side Gallery, the Berlin Victory Column, Berlin Cathedral and the Berlin Television Tower, the tallest structure in Germany. Berlin has numerous museums, galleries, libraries, orchestras, and sporting events. These include the Old National Gallery, the Bode Museum, the Pergamon Museum, the German Historical Museum, the Jewish Museum Berlin, the Natural History Museum, the Humboldt Forum, the Berlin State Library, the Berlin State Opera, the Berlin Philharmonic and the Berlin Marathon."
+  },
+  {
+    "name": "rdf-schema#comment>",
+    "value": "Berlin ( bur-LIN, German: [bɛʁˈliːn] ()) is the capital and largest city of Germany by both area and population. Its 3.7 million inhabitants make it the European Union's most populous city, according to population within city limits. One of Germany's sixteen constituent states, Berlin is surrounded by the State of Brandenburg and contiguous with Potsdam, Brandenburg's capital. Berlin's urban area, which has a population of around 4.5 million, is the second most populous urban area in Germany after the Ruhr. The Berlin-Brandenburg capital region has over six million inhabitants and is Germany's third-largest metropolitan region after the Rhine-Ruhr and Rhine-Main regions."
+  },
+  {
+    "name": "wikiPageOutDegree>",
+    "value": "1042"
+  },
+  {
+    "name": "name>",
+    "value": "Berlin"
+  },
+  {
+    "name": "areaCode>",
+    "value": "030"
+  },
+  {
+    "name": "isoCodeRegion>",
+    "value": "DE-BE"
+  },
+  {
+    "name": "utcOffset>",
+    "value": "+01:00"
+  },
+  {
+    "name": "utcOffset>",
+    "value": "+02:00"
+  },
+  {
+    "name": "personName>",
+    "value": "Michael Müller"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Governing Mayor"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "8.917E8"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "891.7"
+  },
+  {
+    "name": "elevation>",
+    "value": "34.0"
+  },
+  {
+    "name": "populationAsOf>",
+    "value": "2020-12-31"
+  },
+  {
+    "name": "populationTotal>",
+    "value": "3769495"
+  },
+  {
+    "name": "populationMetro>",
+    "value": "6144600"
+  },
+  {
+    "name": "populationUrban>",
+    "value": "4473101"
+  },
+  {
+    "name": "wgs84_pos#lat>",
+    "value": "52.52"
+  },
+  {
+    "name": "wgs84_pos#long>",
+    "value": "13.405"
+  },
+  {
+    "name": "point>",
+    "value": "52.52 13.405"
+  },
+  {
+    "name": "language>",
+    "value": "en"
+  },
+  {
+    "name": "name>",
+    "value": "Berlin"
+  },
+  {
+    "name": "settlementType>",
+    "value": "Capital city, state and municipality"
+  },
+  {
+    "name": "imageShield>",
+    "value": "Coat of arms of Berlin.svg"
+  },
+  {
+    "name": "shieldSize>",
+    "value": "70"
+  },
+  {
+    "name": "pushpinMap>",
+    "value": "Germany#Europe"
+  },
+  {
+    "name": "pushpinRelief>",
+    "value": "yes"
+  },
+  {
+    "name": "pushpinMapCaption>",
+    "value": "Location within Germany"
+  },
+  {
+    "name": "imageFlag>",
+    "value": "Flag_of_Berlin.svg"
+  },
+  {
+    "name": "totalType>",
+    "value": "City/State"
+  },
+  {
+    "name": "areaTotalKm>",
+    "value": "891.7"
+  },
+  {
+    "name": "populationTotal>",
+    "value": "3769495"
+  },
+  {
+    "name": "populationAsOf>",
+    "value": "2020-12-31"
+  },
+  {
+    "name": "populationUrban>",
+    "value": "4473101"
+  },
+  {
+    "name": "populationMetro>",
+    "value": "6144600"
+  },
+  {
+    "name": "elevationM>",
+    "value": "34"
+  },
+  {
+    "name": "populationDemonyms>",
+    "value": "Berliner"
+  },
+  {
+    "name": "populationDemonyms>",
+    "value": "Berliner , Berlinerin"
+  },
+  {
+    "name": "blankInfoSec>",
+    "value": "1.55E11"
+  },
+  {
+    "name": "blank1NameSec>",
+    "value": "GRP per capita"
+  },
+  {
+    "name": "blank1InfoSec>",
+    "value": "41000.0"
+  },
+  {
+    "name": "blank2InfoSec>",
+    "value": "0.95"
+  },
+  {
+    "name": "blank2InfoSec>",
+    "value": "· 2nd of 16"
+  },
+  {
+    "name": "utcOffset>",
+    "value": "60.0"
+  },
+  {
+    "name": "utcOffset1Dst>",
+    "value": "120.0"
+  },
+  {
+    "name": "leaderParty>",
+    "value": "SPD"
+  },
+  {
+    "name": "geocode>",
+    "value": "NUTS Region: DE3"
+  },
+  {
+    "name": "areaCode>",
+    "value": "30"
+  },
+  {
+    "name": "registrationPlate>",
+    "value": "--08-11"
+  },
+  {
+    "name": "isoCode>",
+    "value": "DE-BE"
+  },
+  {
+    "name": "align>",
+    "value": "right"
+  },
+  {
+    "name": "image>",
+    "value": "Berliner Schloß .jpeg"
+  },
+  {
+    "name": "width>",
+    "value": "195"
+  },
+  {
+    "name": "caption>",
+    "value": "The rebuilt Berlin Palace nearing completion, in 2020"
+  },
+  {
+    "name": "width>",
+    "value": "220"
+  },
+  {
+    "name": "width>",
+    "value": "215"
+  },
+  {
+    "name": "perrow>",
+    "value": "2"
+  },
+  {
+    "name": "totalWidth>",
+    "value": "400"
+  },
+  {
+    "name": "width>",
+    "value": "500"
+  },
+  {
+    "name": "height>",
+    "value": "350"
+  },
+  {
+    "name": "image>",
+    "value": "Berliner Dom - panoramio .jpg"
+  },
+  {
+    "name": "image>",
+    "value": "NeueSynagogue.JPG"
+  },
+  {
+    "name": "image>",
+    "value": "2020-04-16"
+  },
+  {
+    "name": "image>",
+    "value": "Şehitlik mosque Berlin by ZUFAr.jpg"
+  },
+  {
+    "name": "footer>",
+    "value": "Clockwise from top left: Berlin Cathedral, New Synagogue, Şehitlik Mosque, and St. Hedwig's Cathedral"
+  },
+  {
+    "name": "align>",
+    "value": "left"
+  },
+  {
+    "name": "image>",
+    "value": "Berlin Fashion Week 2013.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "206"
+  },
+  {
+    "name": "image>",
+    "value": "IFA 2012 IMG 7677.JPG"
+  },
+  {
+    "name": "caption>",
+    "value": "IFA is the one of Europe's leading trade show for consumer electronics."
+  },
+  {
+    "name": "image>",
+    "value": "Erster Spreestrand.JPG"
+  },
+  {
+    "name": "caption>",
+    "value": "Berlin is one of the world's most livable cities."
+  },
+  {
+    "name": "image>",
+    "value": "Simon-Dach-Straße Berlin.jpg"
+  },
+  {
+    "name": "caption>",
+    "value": "Typical street scene at Simon-Dach-Straße."
+  },
+  {
+    "name": "captionAlign>",
+    "value": "center"
+  },
+  {
+    "name": "footerAlign>",
+    "value": "center"
+  },
+  {
+    "name": "image>",
+    "value": "Berlin-Mitte Deutsches Currywurst Museum.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "200"
+  },
+  {
+    "name": "caption>",
+    "value": "The Currywurst Museum"
+  },
+  {
+    "name": "image>",
+    "value": "Currywurst-1.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "192"
+  },
+  {
+    "name": "caption>",
+    "value": "A plate of Currywurst"
+  },
+  {
+    "name": "footer>",
+    "value": "Invented in Berlin, currywurst is an icon of German popular culture and cuisine."
+  }
+]

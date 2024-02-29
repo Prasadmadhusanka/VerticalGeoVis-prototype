@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "rdf-schema#label>",
+    "value": "Cologne"
+  },
+  {
+    "name": "wikiPageID>",
+    "value": "6187"
+  },
+  {
+    "name": "wikiPageRevisionID>",
+    "value": "1058905900"
+  },
+  {
+    "name": "wikiPageLength>",
+    "value": "110888"
+  },
+  {
+    "name": "abstract>",
+    "value": "Cologne (English: kə-LOHN; German: Köln [kœln] (); Kölsch: Kölle [ˈkœlə] ()) is a city in Germany. It is the largest city of Germany's most populous state of North Rhine-Westphalia (NRW) and the fourth-most populous city and one of the oldest in Germany. With 3.6 million people in the urban region and 1.1 million inhabitants within its city proper, Cologne is the largest city on the river Rhine and also the most populous city of both the Rhine-Ruhr Metropolitan Region and the Rhineland. Centered on the left (west) bank of the Rhine, Cologne is about 35 km (22 mi) southeast of NRW's state capital Düsseldorf and 25 km (16 mi) northwest of Bonn. It is classified as a GaWC Gamma+ world city. The city's medieval Catholic Cologne Cathedral (Kölner Dom), the third-tallest church and tallest cathedral in the world, constructed to house the Shrine of the Three Kings, is a globally recognized landmark and one of the most visited sights and pilgrimage destinations in Europe. The cityscape is further shaped by the Twelve Romanesque churches of Cologne, and Cologne is famous for Eau de Cologne, that has been produced in the city since 1709, and "
+  },
+  {
+    "name": "rdf-schema#comment>",
+    "value": "Cologne (English: kə-LOHN; German: Köln [kœln] (); Kölsch: Kölle [ˈkœlə] ()) is a city in Germany. It is the largest city of Germany's most populous state of North Rhine-Westphalia (NRW) and the fourth-most populous city and one of the oldest in Germany. With 3.6 million people in the urban region and 1.1 million inhabitants within its city proper, Cologne is the largest city on the river Rhine and also the most populous city of both the Rhine-Ruhr Metropolitan Region and the Rhineland. Centered on the left (west) bank of the Rhine, Cologne is about 35 km (22 mi) southeast of NRW's state capital Düsseldorf and 25 km (16 mi) northwest of Bonn. It is classified as a GaWC Gamma+ world city."
+  },
+  {
+    "name": "wikiPageOutDegree>",
+    "value": "772"
+  },
+  {
+    "name": "populationMetro>",
+    "value": "10500000"
+  },
+  {
+    "name": "populationUrban>",
+    "value": "3500000"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Lord Mayor"
+  },
+  {
+    "name": "name>",
+    "value": "Cologne"
+  },
+  {
+    "name": "elevation>",
+    "value": "37.0"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "4.0515E8"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "405.15"
+  },
+  {
+    "name": "postalCode>",
+    "value": "50441–51149"
+  },
+  {
+    "name": "areaCode>",
+    "value": "0221, 02203 (Porz)"
+  },
+  {
+    "name": "licenceNumber>",
+    "value": "K"
+  },
+  {
+    "name": "foundingYear>",
+    "value": "0038"
+  },
+  {
+    "name": "wgs84_pos#lat>",
+    "value": "50.93638888888889"
+  },
+  {
+    "name": "wgs84_pos#long>",
+    "value": "6.9527777777777775"
+  },
+  {
+    "name": "point>",
+    "value": "50.93638888888889 6.9527777777777775"
+  },
+  {
+    "name": "language>",
+    "value": "en"
+  },
+  {
+    "name": "name>",
+    "value": "Cologne"
+  },
+  {
+    "name": "type>",
+    "value": "City"
+  },
+  {
+    "name": "imageCaption>",
+    "value": "From top to bottom, left to right:"
+  },
+  {
+    "name": "imageCaption>",
+    "value": "Great St. Martin Church, Cologne Cathedral, Shrine of the Three Kings, St. Gereon's Basilica, Flora Botanical Garden, Hohenzollern Bridge"
+  },
+  {
+    "name": "imageCoa>",
+    "value": "DEU Koeln COA.svg"
+  },
+  {
+    "name": "imageFlag>",
+    "value": "Flagge Köln.svg"
+  },
+  {
+    "name": "imagePlan>",
+    "value": "North rhine w K.svg"
+  },
+  {
+    "name": "plantext>",
+    "value": "Cologne within North Rhine-Westphalia"
+  },
+  {
+    "name": "state>",
+    "value": "Nordrhein-Westfalen"
+  },
+  {
+    "name": "district>",
+    "value": "urban"
+  },
+  {
+    "name": "elevation>",
+    "value": "37"
+  },
+  {
+    "name": "area>",
+    "value": "405.15"
+  },
+  {
+    "name": "popMetro>",
+    "value": "10500000"
+  },
+  {
+    "name": "popUrban>",
+    "value": "3500000"
+  },
+  {
+    "name": "postalCode>",
+    "value": "50441"
+  },
+  {
+    "name": "areaCode>",
+    "value": "22102203"
+  },
+  {
+    "name": "licence>",
+    "value": "K"
+  },
+  {
+    "name": "gemeindeschlüssel>",
+    "value": "5315000"
+  },
+  {
+    "name": "leaderTerm>",
+    "value": "2020"
+  },
+  {
+    "name": "party>",
+    "value": "Independent"
+  },
+  {
+    "name": "year>",
+    "value": "38"
+  },
+  {
+    "name": "location>",
+    "value": "Cologne/Bonn Airport 1991–2020, extremes 1957–present"
+  },
+  {
+    "name": "metricFirst>",
+    "value": "Yes"
+  },
+  {
+    "name": "singleLine>",
+    "value": "Yes"
+  },
+  {
+    "name": "janRecordHighC>",
+    "value": "16.2"
+  },
+  {
+    "name": "febRecordHighC>",
+    "value": "21"
+  },
+  {
+    "name": "marRecordHighC>",
+    "value": "25.3"
+  },
+  {
+    "name": "aprRecordHighC>",
+    "value": "30.8"
+  },
+  {
+    "name": "mayRecordHighC>",
+    "value": "34.4"
+  },
+  {
+    "name": "junRecordHighC>",
+    "value": "36.8"
+  },
+  {
+    "name": "julRecordHighC>",
+    "value": "40.3"
+  },
+  {
+    "name": "augRecordHighC>",
+    "value": "38.8"
+  },
+  {
+    "name": "sepRecordHighC>",
+    "value": "33.1"
+  },
+  {
+    "name": "octRecordHighC>",
+    "value": "27.6"
+  },
+  {
+    "name": "novRecordHighC>",
+    "value": "20.2"
+  },
+  {
+    "name": "decRecordHighC>",
+    "value": "16.7"
+  },
+  {
+    "name": "janAvgRecordHighC>",
+    "value": "13.1"
+  },
+  {
+    "name": "febAvgRecordHighC>",
+    "value": "14.5"
+  },
+  {
+    "name": "marAvgRecordHighC>",
+    "value": "19.7"
+  },
+  {
+    "name": "aprAvgRecordHighC>",
+    "value": "24.7"
+  },
+  {
+    "name": "mayAvgRecordHighC>",
+    "value": "28.2"
+  },
+  {
+    "name": "junAvgRecordHighC>",
+    "value": "31.7"
+  },
+  {
+    "name": "julAvgRecordHighC>",
+    "value": "33.2"
+  },
+  {
+    "name": "augAvgRecordHighC>",
+    "value": "32.7"
+  },
+  {
+    "name": "sepAvgRecordHighC>",
+    "value": "27.4"
+  },
+  {
+    "name": "octAvgRecordHighC>",
+    "value": "22.3"
+  },
+  {
+    "name": "novAvgRecordHighC>",
+    "value": "16.8"
+  },
+  {
+    "name": "decAvgRecordHighC>",
+    "value": "13.2"
+  },
+  {
+    "name": "yearAvgRecordHighC>",
+    "value": "35.4"
+  },
+  {
+    "name": "janHighC>",
+    "value": "5.9"
+  },
+  {
+    "name": "febHighC>",
+    "value": "7.2"
+  },
+  {
+    "name": "marHighC>",
+    "value": "11.4"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "16.1"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "19.7"
+  },
+  {
+    "name": "junHighC>",
+    "value": "22.7"
+  },
+  {
+    "name": "julHighC>",
+    "value": "24.9"
+  },
+  {
+    "name": "augHighC>",
+    "value": "24.5"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "20.4"
+  },
+  {
+    "name": "octHighC>",
+    "value": "15.2"
+  },
+  {
+    "name": "novHighC>",
+    "value": "9.8"
+  },
+  {
+    "name": "decHighC>",
+    "value": "6.5"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "3"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "3.6"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "6.7"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "10.4"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "14.1"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "17.1"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "19"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "18.5"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "14.8"
+  },
+  {
+    "name": "octMeanC>",
+    "value": "10.8"
+  },
+  {
+    "name": "novMeanC>",
+    "value": "6.7"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "3.8"
+  },
+  {
+    "name": "janLowC>",
+    "value": "0"
+  },
+  {
+    "name": "febLowC>",
+    "value": "0.1"
+  },
+  {
+    "name": "marLowC>",
+    "value": "2"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "4.5"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "8.1"
+  },
+  {
+    "name": "junLowC>",
+    "value": "11.2"
+  },
+  {
+    "name": "julLowC>",
+    "value": "13.3"
+  },
+  {
+    "name": "augLowC>",
+    "value": "12.8"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "9.7"
+  },
+  {
+    "name": "octLowC>",
+    "value": "6.8"
+  },
+  {
+    "name": "novLowC>",
+    "value": "3.5"
+  },
+  {
+    "name": "decLowC>",
+    "value": "1"
+  },
+  {
+    "name": "janAvgRecordLowC>",
+    "value": "-9.1"
+  },
+  {
+    "name": "febAvgRecordLowC>",
+    "value": "-8"
+  },
+  {
+    "name": "marAvgRecordLowC>",
+    "value": "-5.3"
+  },
+  {
+    "name": "aprAvgRecordLowC>",
+    "value": "-3.1"
+  },
+  {
+    "name": "mayAvgRecordLowC>",
+    "value": "0.9"
+  },
+  {
+    "name": "junAvgRecordLowC>",
+    "value": "5.2"
+  },
+  {
+    "name": "julAvgRecordLowC>",
+    "value": "7.7"
+  },
+  {
+    "name": "augAvgRecordLowC>",
+    "value": "6.9"
+  },
+  {
+    "name": "sepAvgRecordLowC>",
+    "value": "3.7"
+  },
+  {
+    "name": "octAvgRecordLowC>",
+    "value": "-0.8"
+  },
+  {
+    "name": "novAvgRecordLowC>",
+    "value": "-3.8"
+  },
+  {
+    "name": "decAvgRecordLowC>",
+    "value": "-7.1"
+  },
+  {
+    "name": "yearAvgRecordLowC>",
+    "value": "-11.8"
+  },
+  {
+    "name": "janRecordLowC>",
+    "value": "-23.4"
+  },
+  {
+    "name": "febRecordLowC>",
+    "value": "-19.2"
+  },
+  {
+    "name": "marRecordLowC>",
+    "value": "-13.4"
+  },
+  {
+    "name": "aprRecordLowC>",
+    "value": "-8.8"
+  },
+  {
+    "name": "mayRecordLowC>",
+    "value": "-2.9"
+  },
+  {
+    "name": "junRecordLowC>",
+    "value": "-0.5"
+  },
+  {
+    "name": "julRecordLowC>",
+    "value": "2.9"
+  },
+  {
+    "name": "augRecordLowC>",
+    "value": "1.9"
+  },
+  {
+    "name": "sepRecordLowC>",
+    "value": "-1.3"
+  },
+  {
+    "name": "octRecordLowC>",
+    "value": "-6"
+  },
+  {
+    "name": "novRecordLowC>",
+    "value": "-10.4"
+  },
+  {
+    "name": "decRecordLowC>",
+    "value": "-18"
+  },
+  {
+    "name": "precipitationColour>",
+    "value": "green"
+  },
+  {
+    "name": "janPrecipitationMm>",
+    "value": "61.7"
+  },
+  {
+    "name": "febPrecipitationMm>",
+    "value": "53.8"
+  },
+  {
+    "name": "marPrecipitationMm>",
+    "value": "55"
+  },
+  {
+    "name": "aprPrecipitationMm>",
+    "value": "48.2"
+  },
+  {
+    "name": "mayPrecipitationMm>",
+    "value": "62.1"
+  },
+  {
+    "name": "junPrecipitationMm>",
+    "value": "86.3"
+  },
+  {
+    "name": "julPrecipitationMm>",
+    "value": "87.4"
+  },
+  {
+    "name": "augPrecipitationMm>",
+    "value": "83.3"
+  },
+  {
+    "name": "sepPrecipitationMm>",
+    "value": "66.9"
+  },
+  {
+    "name": "octPrecipitationMm>",
+    "value": "64.7"
+  },
+  {
+    "name": "novPrecipitationMm>",
+    "value": "63.5"
+  },
+  {
+    "name": "decPrecipitationMm>",
+    "value": "69.2"
+  },
+  {
+    "name": "janSun>",
+    "value": "54.3"
+  },
+  {
+    "name": "febSun>",
+    "value": "78.8"
+  },
+  {
+    "name": "marSun>",
+    "value": "124.8"
+  },
+  {
+    "name": "aprSun>",
+    "value": "172.6"
+  },
+  {
+    "name": "maySun>",
+    "value": "198.7"
+  },
+  {
+    "name": "junSun>",
+    "value": "201.3"
+  },
+  {
+    "name": "julSun>",
+    "value": "207.2"
+  },
+  {
+    "name": "augSun>",
+    "value": "196.5"
+  },
+  {
+    "name": "sepSun>",
+    "value": "149.4"
+  },
+  {
+    "name": "octSun>",
+    "value": "104.5"
+  },
+  {
+    "name": "novSun>",
+    "value": "58.9"
+  },
+  {
+    "name": "decSun>",
+    "value": "45.2"
+  },
+  {
+    "name": "source>",
+    "value": "Data derived from Deutscher Wetterdienst"
+  },
+  {
+    "name": "date>",
+    "value": "2021-01-20"
+  },
+  {
+    "name": "collapsed>",
+    "value": "Yes"
+  },
+  {
+    "name": "location>",
+    "value": "Cologne/Bonn Airport 1981–2010"
+  },
+  {
+    "name": "janHighC>",
+    "value": "5.4"
+  },
+  {
+    "name": "febHighC>",
+    "value": "6.7"
+  },
+  {
+    "name": "marHighC>",
+    "value": "10.9"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "15.1"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "19.3"
+  },
+  {
+    "name": "junHighC>",
+    "value": "21.9"
+  },
+  {
+    "name": "julHighC>",
+    "value": "24.4"
+  },
+  {
+    "name": "augHighC>",
+    "value": "24"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "19.9"
+  },
+  {
+    "name": "octHighC>",
+    "value": "15.1"
+  },
+  {
+    "name": "novHighC>",
+    "value": "9.5"
+  },
+  {
+    "name": "decHighC>",
+    "value": "5.9"
+  },
+  {
+    "name": "yearHighC>",
+    "value": "14.8"
+  },
+  {
+    "name": "janAvgRecordHighC>",
+    "value": "12.5"
+  },
+  {
+    "name": "febAvgRecordHighC>",
+    "value": "14"
+  },
+  {
+    "name": "marAvgRecordHighC>",
+    "value": "19"
+  },
+  {
+    "name": "aprAvgRecordHighC>",
+    "value": "23.7"
+  },
+  {
+    "name": "mayAvgRecordHighC>",
+    "value": "27.7"
+  },
+  {
+    "name": "junAvgRecordHighC>",
+    "value": "30.8"
+  },
+  {
+    "name": "julAvgRecordHighC>",
+    "value": "32.3"
+  },
+  {
+    "name": "augAvgRecordHighC>",
+    "value": "32"
+  },
+  {
+    "name": "sepAvgRecordHighC>",
+    "value": "26.4"
+  },
+  {
+    "name": "octAvgRecordHighC>",
+    "value": "21.9"
+  },
+  {
+    "name": "novAvgRecordHighC>",
+    "value": "16.4"
+  },
+  {
+    "name": "decAvgRecordHighC>",
+    "value": "12.8"
+  },
+  {
+    "name": "yearAvgRecordHighC>",
+    "value": "34.1"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "2.6"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "2.9"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "6.3"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "9.7"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "14"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "16.6"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "18.8"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "18.1"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "14.5"
+  },
+  {
+    "name": "octMeanC>",
+    "value": "10.6"
+  },
+  {
+    "name": "novMeanC>",
+    "value": "6.3"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "3.3"
+  },
+  {
+    "name": "yearMeanC>",
+    "value": "10.3"
+  },
+  {
+    "name": "janLowC>",
+    "value": "-0.6"
+  },
+  {
+    "name": "febLowC>",
+    "value": "-0.7"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "4.2"
+  },
+  {
+    "name": "junLowC>",
+    "value": "11"
+  },
+  {
+    "name": "julLowC>",
+    "value": "13.2"
+  },
+  {
+    "name": "augLowC>",
+    "value": "12.6"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "9.8"
+  },
+  {
+    "name": "octLowC>",
+    "value": "6.7"
+  },
+  {
+    "name": "novLowC>",
+    "value": "3.1"
+  },
+  {
+    "name": "decLowC>",
+    "value": "0.4"
+  },
+  {
+    "name": "yearLowC>",
+    "value": "5.8"
+  },
+  {
+    "name": "janAvgRecordLowC>",
+    "value": "-10.3"
+  },
+  {
+    "name": "febAvgRecordLowC>",
+    "value": "-8.9"
+  },
+  {
+    "name": "marAvgRecordLowC>",
+    "value": "-5.2"
+  },
+  {
+    "name": "aprAvgRecordLowC>",
+    "value": "-3.2"
+  },
+  {
+    "name": "mayAvgRecordLowC>",
+    "value": "1.3"
+  },
+  {
+    "name": "junAvgRecordLowC>",
+    "value": "4.7"
+  },
+  {
+    "name": "julAvgRecordLowC>",
+    "value": "7.6"
+  },
+  {
+    "name": "augAvgRecordLowC>",
+    "value": "6.8"
+  },
+  {
+    "name": "sepAvgRecordLowC>",
+    "value": "3.5"
+  },
+  {
+    "name": "novAvgRecordLowC>",
+    "value": "-4.2"
+  },
+  {
+    "name": "decAvgRecordLowC>",
+    "value": "-8.3"
+  },
+  {
+    "name": "yearAvgRecordLowC>",
+    "value": "-13"
+  },
+  {
+    "name": "janPrecipitationMm>",
+    "value": "62.1"
+  },
+  {
+    "name": "febPrecipitationMm>",
+    "value": "54.2"
+  },
+  {
+    "name": "marPrecipitationMm>",
+    "value": "64.6"
+  },
+  {
+    "name": "aprPrecipitationMm>",
+    "value": "53.9"
+  },
+  {
+    "name": "mayPrecipitationMm>",
+    "value": "72.2"
+  },
+  {
+    "name": "junPrecipitationMm>",
+    "value": "90.7"
+  },
+  {
+    "name": "julPrecipitationMm>",
+    "value": "85.8"
+  },
+  {
+    "name": "augPrecipitationMm>",
+    "value": "75"
+  },
+  {
+    "name": "sepPrecipitationMm>",
+    "value": "74.9"
+  },
+  {
+    "name": "octPrecipitationMm>",
+    "value": "67.1"
+  },
+  {
+    "name": "novPrecipitationMm>",
+    "value": "67"
+  },
+  {
+    "name": "decPrecipitationMm>",
+    "value": "71.1"
+  },
+  {
+    "name": "yearPrecipitationMm>",
+    "value": "838.6"
+  },
+  {
+    "name": "janSun>",
+    "value": "54"
+  },
+  {
+    "name": "marSun>",
+    "value": "120.3"
+  },
+  {
+    "name": "aprSun>",
+    "value": "167.2"
+  },
+  {
+    "name": "maySun>",
+    "value": "193"
+  },
+  {
+    "name": "junSun>",
+    "value": "193.6"
+  },
+  {
+    "name": "julSun>",
+    "value": "209.7"
+  },
+  {
+    "name": "augSun>",
+    "value": "194.2"
+  },
+  {
+    "name": "sepSun>",
+    "value": "141.5"
+  },
+  {
+    "name": "octSun>",
+    "value": "109.2"
+  },
+  {
+    "name": "novSun>",
+    "value": "60.7"
+  },
+  {
+    "name": "decSun>",
+    "value": "45.3"
+  },
+  {
+    "name": "yearSun>",
+    "value": "1567.5"
+  },
+  {
+    "name": "date>",
+    "value": "2017-04-27"
+  },
+  {
+    "name": "centre>",
+    "value": "Cologne"
+  }
+]

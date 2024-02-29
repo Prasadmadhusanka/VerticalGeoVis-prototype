@@ -1,0 +1,782 @@
+[
+  {
+    "name": "rdf-schema#label>",
+    "value": "Düsseldorf"
+  },
+  {
+    "name": "wikiPageID>",
+    "value": "65711"
+  },
+  {
+    "name": "wikiPageRevisionID>",
+    "value": "1058929412"
+  },
+  {
+    "name": "wikiPageLength>",
+    "value": "97316"
+  },
+  {
+    "name": "abstract>",
+    "value": "Düsseldorf (UK: DUUS-əl-dorf, US: DEWS-, German: [ˈdʏsl̩dɔʁf] (); often Dusseldorf in English sources; Low Franconian and Ripuarian: Düsseldörp [ˈdʏsl̩dœɐ̯p]; archaic Dutch: Dusseldorp) is the capital city of North Rhine-Westphalia, the most populous state of Germany. It is the second-largest city in the state and the seventh-largest city in Germany, with a population of 617,280. Düsseldorf is located at the confluence of two rivers: the Rhine and the Düssel, a small tributary. The -dorf suffix means "
+  },
+  {
+    "name": "rdf-schema#comment>",
+    "value": "Düsseldorf (UK: DUUS-əl-dorf, US: DEWS-, German: [ˈdʏsl̩dɔʁf] (); often Dusseldorf in English sources; Low Franconian and Ripuarian: Düsseldörp [ˈdʏsl̩dœɐ̯p]; archaic Dutch: Dusseldorp) is the capital city of North Rhine-Westphalia, the most populous state of Germany. It is the second-largest city in the state and the seventh-largest city in Germany, with a population of 617,280."
+  },
+  {
+    "name": "wikiPageOutDegree>",
+    "value": "655"
+  },
+  {
+    "name": "populationMetro>",
+    "value": "11300000"
+  },
+  {
+    "name": "populationUrban>",
+    "value": "1220000"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Oberbürgermeister"
+  },
+  {
+    "name": "name>",
+    "value": "Düsseldorf"
+  },
+  {
+    "name": "elevation>",
+    "value": "38.0"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "2.1741E8"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "217.41"
+  },
+  {
+    "name": "postalCode>",
+    "value": "40210-40629"
+  },
+  {
+    "name": "areaCode>",
+    "value": "0211, 0203, 02104"
+  },
+  {
+    "name": "licenceNumber>",
+    "value": "D"
+  },
+  {
+    "name": "wgs84_pos#lat>",
+    "value": "51.233333333333334"
+  },
+  {
+    "name": "wgs84_pos#long>",
+    "value": "6.783333333333333"
+  },
+  {
+    "name": "point>",
+    "value": "51.233333333333334 6.783333333333333"
+  },
+  {
+    "name": "language>",
+    "value": "en"
+  },
+  {
+    "name": "bürgermeistertitel>",
+    "value": "Oberbürgermeister"
+  },
+  {
+    "name": "gemeindeschlüssel>",
+    "value": "5111000"
+  },
+  {
+    "name": "popMetro>",
+    "value": "11300000"
+  },
+  {
+    "name": "popUrban>",
+    "value": "1220000"
+  },
+  {
+    "name": "name>",
+    "value": "Düsseldorf"
+  },
+  {
+    "name": "type>",
+    "value": "City"
+  },
+  {
+    "name": "imageFlag>",
+    "value": "File:Flagge der Landeshauptstadt Duesseldorf.svg"
+  },
+  {
+    "name": "imageCoa>",
+    "value": "Wappen der Landeshauptstadt Duesseldorf.svg"
+  },
+  {
+    "name": "imagePlan>",
+    "value": "North rhine w D.svg"
+  },
+  {
+    "name": "state>",
+    "value": "North Rhine-Westphalia"
+  },
+  {
+    "name": "region>",
+    "value": "Düsseldorf"
+  },
+  {
+    "name": "elevation>",
+    "value": "38"
+  },
+  {
+    "name": "area>",
+    "value": "217.41"
+  },
+  {
+    "name": "postalCode>",
+    "value": "40210"
+  },
+  {
+    "name": "areaCode>",
+    "value": "211020302104"
+  },
+  {
+    "name": "licence>",
+    "value": "D"
+  },
+  {
+    "name": "divisions>",
+    "value": "10"
+  },
+  {
+    "name": "leaderTerm>",
+    "value": "2020"
+  },
+  {
+    "name": "party>",
+    "value": "CDU"
+  },
+  {
+    "name": "rulingParty>",
+    "value": "CDU"
+  },
+  {
+    "name": "rulingParty>",
+    "value": "Greens"
+  },
+  {
+    "name": "width>",
+    "value": "80.0"
+  },
+  {
+    "name": "location>",
+    "value": "Düsseldorf"
+  },
+  {
+    "name": "metricFirst>",
+    "value": "Yes"
+  },
+  {
+    "name": "singleLine>",
+    "value": "Yes"
+  },
+  {
+    "name": "janRecordHighC>",
+    "value": "16.4"
+  },
+  {
+    "name": "febRecordHighC>",
+    "value": "21"
+  },
+  {
+    "name": "marRecordHighC>",
+    "value": "23.8"
+  },
+  {
+    "name": "aprRecordHighC>",
+    "value": "28.8"
+  },
+  {
+    "name": "mayRecordHighC>",
+    "value": "33.8"
+  },
+  {
+    "name": "junRecordHighC>",
+    "value": "36.8"
+  },
+  {
+    "name": "julRecordHighC>",
+    "value": "40.7"
+  },
+  {
+    "name": "augRecordHighC>",
+    "value": "38.5"
+  },
+  {
+    "name": "sepRecordHighC>",
+    "value": "34"
+  },
+  {
+    "name": "octRecordHighC>",
+    "value": "27.7"
+  },
+  {
+    "name": "novRecordHighC>",
+    "value": "20.4"
+  },
+  {
+    "name": "decRecordHighC>",
+    "value": "16.3"
+  },
+  {
+    "name": "yearRecordHighC>",
+    "value": "40.7"
+  },
+  {
+    "name": "janHighC>",
+    "value": "5.6"
+  },
+  {
+    "name": "febHighC>",
+    "value": "6.6"
+  },
+  {
+    "name": "marHighC>",
+    "value": "10.7"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "14.8"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "19.2"
+  },
+  {
+    "name": "junHighC>",
+    "value": "21.9"
+  },
+  {
+    "name": "julHighC>",
+    "value": "24.3"
+  },
+  {
+    "name": "augHighC>",
+    "value": "23.8"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "19.8"
+  },
+  {
+    "name": "octHighC>",
+    "value": "15.1"
+  },
+  {
+    "name": "novHighC>",
+    "value": "9.6"
+  },
+  {
+    "name": "decHighC>",
+    "value": "6.1"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "2.9"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "3.4"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "6.7"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "9.9"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "14.1"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "16.7"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "19.2"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "18.8"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "15.4"
+  },
+  {
+    "name": "octMeanC>",
+    "value": "11.4"
+  },
+  {
+    "name": "novMeanC>",
+    "value": "6.8"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "3.6"
+  },
+  {
+    "name": "janLowC>",
+    "value": "0.2"
+  },
+  {
+    "name": "febLowC>",
+    "value": "0.3"
+  },
+  {
+    "name": "marLowC>",
+    "value": "2.8"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "5"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "9"
+  },
+  {
+    "name": "junLowC>",
+    "value": "11.6"
+  },
+  {
+    "name": "julLowC>",
+    "value": "14.1"
+  },
+  {
+    "name": "augLowC>",
+    "value": "13.7"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "11"
+  },
+  {
+    "name": "octLowC>",
+    "value": "7.7"
+  },
+  {
+    "name": "novLowC>",
+    "value": "3.9"
+  },
+  {
+    "name": "decLowC>",
+    "value": "1.2"
+  },
+  {
+    "name": "janRecordLowC>",
+    "value": "-20.8"
+  },
+  {
+    "name": "febRecordLowC>",
+    "value": "-15.4"
+  },
+  {
+    "name": "marRecordLowC>",
+    "value": "-16.1"
+  },
+  {
+    "name": "aprRecordLowC>",
+    "value": "-6.3"
+  },
+  {
+    "name": "mayRecordLowC>",
+    "value": "-1.1"
+  },
+  {
+    "name": "junRecordLowC>",
+    "value": "2.4"
+  },
+  {
+    "name": "julRecordLowC>",
+    "value": "4.8"
+  },
+  {
+    "name": "augRecordLowC>",
+    "value": "5"
+  },
+  {
+    "name": "sepRecordLowC>",
+    "value": "0.7"
+  },
+  {
+    "name": "octRecordLowC>",
+    "value": "-6.2"
+  },
+  {
+    "name": "novRecordLowC>",
+    "value": "-9.4"
+  },
+  {
+    "name": "decRecordLowC>",
+    "value": "-15.3"
+  },
+  {
+    "name": "yearRecordLowC>",
+    "value": "-20.8"
+  },
+  {
+    "name": "precipitationColour>",
+    "value": "green"
+  },
+  {
+    "name": "janPrecipitationMm>",
+    "value": "67.3"
+  },
+  {
+    "name": "febPrecipitationMm>",
+    "value": "53.2"
+  },
+  {
+    "name": "marPrecipitationMm>",
+    "value": "65"
+  },
+  {
+    "name": "aprPrecipitationMm>",
+    "value": "51.8"
+  },
+  {
+    "name": "mayPrecipitationMm>",
+    "value": "68.8"
+  },
+  {
+    "name": "junPrecipitationMm>",
+    "value": "75.2"
+  },
+  {
+    "name": "julPrecipitationMm>",
+    "value": "75"
+  },
+  {
+    "name": "augPrecipitationMm>",
+    "value": "70.6"
+  },
+  {
+    "name": "sepPrecipitationMm>",
+    "value": "64.2"
+  },
+  {
+    "name": "octPrecipitationMm>",
+    "value": "67.2"
+  },
+  {
+    "name": "novPrecipitationMm>",
+    "value": "68.1"
+  },
+  {
+    "name": "decPrecipitationMm>",
+    "value": "71.5"
+  },
+  {
+    "name": "janSun>",
+    "value": "56.4"
+  },
+  {
+    "name": "febSun>",
+    "value": "76.2"
+  },
+  {
+    "name": "marSun>",
+    "value": "112.2"
+  },
+  {
+    "name": "aprSun>",
+    "value": "166.7"
+  },
+  {
+    "name": "maySun>",
+    "value": "198.8"
+  },
+  {
+    "name": "junSun>",
+    "value": "193.4"
+  },
+  {
+    "name": "julSun>",
+    "value": "209.5"
+  },
+  {
+    "name": "augSun>",
+    "value": "190.7"
+  },
+  {
+    "name": "sepSun>",
+    "value": "140.1"
+  },
+  {
+    "name": "octSun>",
+    "value": "110.4"
+  },
+  {
+    "name": "novSun>",
+    "value": "59.8"
+  },
+  {
+    "name": "decSun>",
+    "value": "45.1"
+  },
+  {
+    "name": "source>",
+    "value": "Deutscher Wetterdienst"
+  },
+  {
+    "name": "janHighC>",
+    "value": "6.9"
+  },
+  {
+    "name": "febHighC>",
+    "value": "9.7"
+  },
+  {
+    "name": "marHighC>",
+    "value": "11.7"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "17.1"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "18.7"
+  },
+  {
+    "name": "junHighC>",
+    "value": "24.2"
+  },
+  {
+    "name": "julHighC>",
+    "value": "24.8"
+  },
+  {
+    "name": "augHighC>",
+    "value": "25.1"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "20.2"
+  },
+  {
+    "name": "octHighC>",
+    "value": "15.6"
+  },
+  {
+    "name": "decHighC>",
+    "value": "7.1"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "4.6"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "6"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "7.6"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "11.3"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "13.3"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "18.7"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "19.3"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "19.6"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "15.5"
+  },
+  {
+    "name": "octMeanC>",
+    "value": "12"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "4.8"
+  },
+  {
+    "name": "janLowC>",
+    "value": "1.8"
+  },
+  {
+    "name": "febLowC>",
+    "value": "2.2"
+  },
+  {
+    "name": "marLowC>",
+    "value": "3.3"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "5.1"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "7.2"
+  },
+  {
+    "name": "junLowC>",
+    "value": "12.7"
+  },
+  {
+    "name": "julLowC>",
+    "value": "13.5"
+  },
+  {
+    "name": "augLowC>",
+    "value": "14.1"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "10.7"
+  },
+  {
+    "name": "octLowC>",
+    "value": "8.6"
+  },
+  {
+    "name": "novLowC>",
+    "value": "3.8"
+  },
+  {
+    "name": "decLowC>",
+    "value": "2.3"
+  },
+  {
+    "name": "janPrecipitationMm>",
+    "value": "51.3"
+  },
+  {
+    "name": "febPrecipitationMm>",
+    "value": "84.5"
+  },
+  {
+    "name": "marPrecipitationMm>",
+    "value": "62.8"
+  },
+  {
+    "name": "aprPrecipitationMm>",
+    "value": "29.2"
+  },
+  {
+    "name": "mayPrecipitationMm>",
+    "value": "40.9"
+  },
+  {
+    "name": "junPrecipitationMm>",
+    "value": "54.1"
+  },
+  {
+    "name": "julPrecipitationMm>",
+    "value": "44.2"
+  },
+  {
+    "name": "augPrecipitationMm>",
+    "value": "68.8"
+  },
+  {
+    "name": "sepPrecipitationMm>",
+    "value": "73.3"
+  },
+  {
+    "name": "octPrecipitationMm>",
+    "value": "76.5"
+  },
+  {
+    "name": "novPrecipitationMm>",
+    "value": "77"
+  },
+  {
+    "name": "decPrecipitationMm>",
+    "value": "69"
+  },
+  {
+    "name": "janSun>",
+    "value": "47.7"
+  },
+  {
+    "name": "febSun>",
+    "value": "85.8"
+  },
+  {
+    "name": "marSun>",
+    "value": "129.6"
+  },
+  {
+    "name": "aprSun>",
+    "value": "218.7"
+  },
+  {
+    "name": "maySun>",
+    "value": "218.4"
+  },
+  {
+    "name": "junSun>",
+    "value": "229.9"
+  },
+  {
+    "name": "julSun>",
+    "value": "204"
+  },
+  {
+    "name": "augSun>",
+    "value": "214.1"
+  },
+  {
+    "name": "sepSun>",
+    "value": "147.5"
+  },
+  {
+    "name": "octSun>",
+    "value": "99"
+  },
+  {
+    "name": "novSun>",
+    "value": "54.3"
+  },
+  {
+    "name": "decSun>",
+    "value": "47.9"
+  },
+  {
+    "name": "source>",
+    "value": "www.weatheronline.de, extremes and sun = Meteo Climat"
+  },
+  {
+    "name": "centre>",
+    "value": "Düsseldorf"
+  },
+  {
+    "name": "title>",
+    "value": "Articles related to Düsseldorf"
+  }
+]

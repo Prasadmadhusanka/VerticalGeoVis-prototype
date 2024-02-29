@@ -1,0 +1,1170 @@
+[
+  {
+    "name": "rdf-schema#label>",
+    "value": "Hamburg"
+  },
+  {
+    "name": "wikiPageID>",
+    "value": "13467"
+  },
+  {
+    "name": "wikiPageRevisionID>",
+    "value": "1059737727"
+  },
+  {
+    "name": "wikiPageLength>",
+    "value": "139989"
+  },
+  {
+    "name": "abstract>",
+    "value": "Hamburg (German: [ˈhambʊʁk] (), locally also [ˈhambʊɪ̯ç] (); Low Saxon: Hamborg [ˈhambɔːç] ()), officially the Free and Hanseatic City of Hamburg (German: Freie und Hansestadt Hamburg; Low Saxon: Friee un Hansestadt Hamborg), is the second-largest city in Germany after Berlin, as well as the overall 7th largest city and largest non-capital city in the European Union with a population of over 1.84 million. Hamburg's urban area has a population of around 2.5 million and its metropolitan area is home to more than five million people. The city lies on the River Elbe and two of its tributaries, the River Alster and the River Bille. One of Germany's 16 federated states, Hamburg is surrounded by Schleswig-Holstein to the north and Lower Saxony to the south. The official name reflects Hamburg's history as a member of the medieval Hanseatic League and a free imperial city of the Holy Roman Empire. Before the 1871 Unification of Germany, it was a fully sovereign city state, and before 1919 formed a civic republic headed constitutionally by a class of hereditary grand burghers or Hanseaten. Beset by disasters such as the Great Fire of Hamburg, North Sea flood of 1962 and military conflicts including World War II bombing raids, the city has managed to recover and emerge wealthier after each catastrophe. Hamburg is Europe's third largest port, after Rotterdam and Antwerp. Major regional broadcaster NDR, the printing and publishing firm Gruner + Jahr and the newspapers Der Spiegel and Die Zeit are based in the city. Hamburg is the seat of Germany's oldest stock exchange and the world's oldest merchant bank, Berenberg Bank. Media, commercial, logistical, and industrial firms with significant locations in the city include multinationals Airbus, Blohm + Voss, Aurubis, Beiersdorf, and Unilever. Hamburg is also a major European science, research, and education hub, with several universities and institutions. The city enjoys a very high quality of living, being ranked 19th in the 2019 Mercer Quality of Living Survey. Hamburg hosts specialists in world economics and international law, including consular and diplomatic missions as the International Tribunal for the Law of the Sea, the EU-LAC Foundation, and the UNESCO Institute for Lifelong Learning, multipartite international political conferences and summits such as Europe and China and the G20. Both former German Chancellor Helmut Schmidt and Angela Merkel, were born in Hamburg. The former Mayor of Hamburg, Olaf Scholz, is the current German chancellor since December 2021. Hamburg is a major international and domestic . The Speicherstadt and Kontorhausviertel were declared World Heritage Sites by UNESCO in 2015. Hamburg's rivers and canals are crossed by around 2,500 bridges, making it the city with the highest number of bridges in Europe. Aside from its rich architectural heritage, the city is also home to notable cultural venues such as the Elbphilharmonie and Laeiszhalle concert halls. It gave birth to movements like Hamburger Schule and paved the way for bands including The Beatles. Hamburg is also known for several theatres and a variety of musical shows. St. Pauli's Reeperbahn is among the best-known European entertainment districts."
+  },
+  {
+    "name": "rdf-schema#comment>",
+    "value": "Hamburg (German: [ˈhambʊʁk] (), locally also [ˈhambʊɪ̯ç] (); Low Saxon: Hamborg [ˈhambɔːç] ()), officially the Free and Hanseatic City of Hamburg (German: Freie und Hansestadt Hamburg; Low Saxon: Friee un Hansestadt Hamborg), is the second-largest city in Germany after Berlin, as well as the overall 7th largest city and largest non-capital city in the European Union with a population of over 1.84 million. Hamburg's urban area has a population of around 2.5 million and its metropolitan area is home to more than five million people. The city lies on the River Elbe and two of its tributaries, the River Alster and the River Bille. One of Germany's 16 federated states, Hamburg is surrounded by Schleswig-Holstein to the north and Lower Saxony to the south."
+  },
+  {
+    "name": "wikiPageOutDegree>",
+    "value": "852"
+  },
+  {
+    "name": "name>",
+    "value": "Hamburg"
+  },
+  {
+    "name": "name>",
+    "value": "Free and Hanseatic City of Hamburg"
+  },
+  {
+    "name": "postalCode>",
+    "value": "20001–21149, 22001–22769"
+  },
+  {
+    "name": "areaCode>",
+    "value": "040"
+  },
+  {
+    "name": "isoCodeRegion>",
+    "value": "DE-HH"
+  },
+  {
+    "name": "demonym>",
+    "value": "Hamburger (male), Hamburgerin (female)"
+  },
+  {
+    "name": "demonym>",
+    "value": "Hamburgian(s)"
+  },
+  {
+    "name": "utcOffset>",
+    "value": "+1"
+  },
+  {
+    "name": "utcOffset>",
+    "value": "+2"
+  },
+  {
+    "name": "personName>",
+    "value": "Peter Tschentscher"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "First Mayor"
+  },
+  {
+    "name": "personName>",
+    "value": "Katharina Fegebank"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Second Mayor"
+  },
+  {
+    "name": "personName>",
+    "value": "/"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Governing parties"
+  },
+  {
+    "name": "personName>",
+    "value": "3 (of 69)"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Bundesrat votes"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "7.5522E8"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "755.22"
+  },
+  {
+    "name": "populationAsOf>",
+    "value": "2020-06-30"
+  },
+  {
+    "name": "populationTotal>",
+    "value": "1845229"
+  },
+  {
+    "name": "populationMetro>",
+    "value": "5107429"
+  },
+  {
+    "name": "populationUrban>",
+    "value": "2484800"
+  },
+  {
+    "name": "wgs84_pos#lat>",
+    "value": "53.56527777777778"
+  },
+  {
+    "name": "wgs84_pos#long>",
+    "value": "10.001388888888888"
+  },
+  {
+    "name": "point>",
+    "value": "53.56527777777778 10.001388888888888"
+  },
+  {
+    "name": "language>",
+    "value": "en"
+  },
+  {
+    "name": "officialName>",
+    "value": "Free and Hanseatic City of Hamburg"
+  },
+  {
+    "name": "settlementType>",
+    "value": "City and state"
+  },
+  {
+    "name": "imagesize>",
+    "value": "270"
+  },
+  {
+    "name": "imageFlag>",
+    "value": "Flag of Hamburg.svg"
+  },
+  {
+    "name": "flagSize>",
+    "value": "120"
+  },
+  {
+    "name": "imageShield>",
+    "value": "Wappen der Hamburgischen Bürgerschaft.svg"
+  },
+  {
+    "name": "shieldSize>",
+    "value": "70"
+  },
+  {
+    "name": "mapsize>",
+    "value": "155"
+  },
+  {
+    "name": "subdivisionType>",
+    "value": "Country"
+  },
+  {
+    "name": "seatType>",
+    "value": "Capital"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Governing parties"
+  },
+  {
+    "name": "leaderName>",
+    "value": "/"
+  },
+  {
+    "name": "leaderName>",
+    "value": "3"
+  },
+  {
+    "name": "totalType>",
+    "value": "City"
+  },
+  {
+    "name": "areaTotalKm>",
+    "value": "755.22"
+  },
+  {
+    "name": "populationTotal>",
+    "value": "1845229"
+  },
+  {
+    "name": "populationAsOf>",
+    "value": "2020-06-30"
+  },
+  {
+    "name": "populationDensityKm>",
+    "value": "auto"
+  },
+  {
+    "name": "populationUrban>",
+    "value": "2484800"
+  },
+  {
+    "name": "populationMetro>",
+    "value": "5107429"
+  },
+  {
+    "name": "populationDemonym>",
+    "value": "Hamburger , Hamburgerin"
+  },
+  {
+    "name": "populationDemonym>",
+    "value": "Hamburgian"
+  },
+  {
+    "name": "utcOffset>",
+    "value": "+1"
+  },
+  {
+    "name": "utcOffset1Dst>",
+    "value": "+2"
+  },
+  {
+    "name": "postalCode>",
+    "value": "20001"
+  },
+  {
+    "name": "areaCode>",
+    "value": "40"
+  },
+  {
+    "name": "registrationPlate>",
+    "value": "HH"
+  },
+  {
+    "name": "registrationPlate>",
+    "value": "MGH"
+  },
+  {
+    "name": "registrationPlate>",
+    "value": "H"
+  },
+  {
+    "name": "registrationPlate>",
+    "value": "HG"
+  },
+  {
+    "name": "registrationPlate>",
+    "value": "BH"
+  },
+  {
+    "name": "blankInfoSec>",
+    "value": "1.23E11"
+  },
+  {
+    "name": "blank1NameSec>",
+    "value": "GRP per capita"
+  },
+  {
+    "name": "blank1InfoSec>",
+    "value": "67000.0"
+  },
+  {
+    "name": "blank1InfoSec>",
+    "value": "0.975"
+  },
+  {
+    "name": "blank1InfoSec>",
+    "value": "· 1st of 16"
+  },
+  {
+    "name": "isoCode>",
+    "value": "DE-HH"
+  },
+  {
+    "name": "blankInfoSec>",
+    "value": "DE6"
+  },
+  {
+    "name": "name>",
+    "value": "Hamburg"
+  },
+  {
+    "name": "location>",
+    "value": "900.0"
+  },
+  {
+    "name": "metricFirst>",
+    "value": "Yes"
+  },
+  {
+    "name": "singleLine>",
+    "value": "yes"
+  },
+  {
+    "name": "width>",
+    "value": "80.0"
+  },
+  {
+    "name": "janRecordHighC>",
+    "value": "14.4"
+  },
+  {
+    "name": "febRecordHighC>",
+    "value": "17.2"
+  },
+  {
+    "name": "marRecordHighC>",
+    "value": "23"
+  },
+  {
+    "name": "aprRecordHighC>",
+    "value": "29.7"
+  },
+  {
+    "name": "mayRecordHighC>",
+    "value": "33.5"
+  },
+  {
+    "name": "junRecordHighC>",
+    "value": "34.6"
+  },
+  {
+    "name": "julRecordHighC>",
+    "value": "36.9"
+  },
+  {
+    "name": "augRecordHighC>",
+    "value": "37.3"
+  },
+  {
+    "name": "sepRecordHighC>",
+    "value": "32.3"
+  },
+  {
+    "name": "octRecordHighC>",
+    "value": "26.1"
+  },
+  {
+    "name": "novRecordHighC>",
+    "value": "20.2"
+  },
+  {
+    "name": "decRecordHighC>",
+    "value": "15.7"
+  },
+  {
+    "name": "janHighC>",
+    "value": "3.5"
+  },
+  {
+    "name": "febHighC>",
+    "value": "4.4"
+  },
+  {
+    "name": "marHighC>",
+    "value": "8"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "12.3"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "17.5"
+  },
+  {
+    "name": "junHighC>",
+    "value": "19.9"
+  },
+  {
+    "name": "julHighC>",
+    "value": "22.1"
+  },
+  {
+    "name": "augHighC>",
+    "value": "22.2"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "17.9"
+  },
+  {
+    "name": "octHighC>",
+    "value": "13"
+  },
+  {
+    "name": "novHighC>",
+    "value": "7.5"
+  },
+  {
+    "name": "decHighC>",
+    "value": "4.6"
+  },
+  {
+    "name": "yearHighC>",
+    "value": "13.2"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "1"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "1.6"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "4.6"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "7.8"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "12.5"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "15.2"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "17.4"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "17.4"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "13.7"
+  },
+  {
+    "name": "octMeanC>",
+    "value": "9.5"
+  },
+  {
+    "name": "novMeanC>",
+    "value": "4.9"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "2.3"
+  },
+  {
+    "name": "yearMeanC>",
+    "value": "9"
+  },
+  {
+    "name": "janLowC>",
+    "value": "−1.4"
+  },
+  {
+    "name": "febLowC>",
+    "value": "−1.2"
+  },
+  {
+    "name": "marLowC>",
+    "value": "1.1"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "3.3"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "7.4"
+  },
+  {
+    "name": "junLowC>",
+    "value": "10.5"
+  },
+  {
+    "name": "julLowC>",
+    "value": "12.7"
+  },
+  {
+    "name": "augLowC>",
+    "value": "12.5"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "9.6"
+  },
+  {
+    "name": "octLowC>",
+    "value": "6"
+  },
+  {
+    "name": "novLowC>",
+    "value": "2.4"
+  },
+  {
+    "name": "decLowC>",
+    "value": "0"
+  },
+  {
+    "name": "yearLowC>",
+    "value": "6.2"
+  },
+  {
+    "name": "janRecordLowC>",
+    "value": "-22.8"
+  },
+  {
+    "name": "febRecordLowC>",
+    "value": "-29.1"
+  },
+  {
+    "name": "marRecordLowC>",
+    "value": "-15.3"
+  },
+  {
+    "name": "aprRecordLowC>",
+    "value": "-7.1"
+  },
+  {
+    "name": "mayRecordLowC>",
+    "value": "-5"
+  },
+  {
+    "name": "junRecordLowC>",
+    "value": "0.6"
+  },
+  {
+    "name": "julRecordLowC>",
+    "value": "3.4"
+  },
+  {
+    "name": "augRecordLowC>",
+    "value": "1.8"
+  },
+  {
+    "name": "sepRecordLowC>",
+    "value": "-1.2"
+  },
+  {
+    "name": "octRecordLowC>",
+    "value": "-7.1"
+  },
+  {
+    "name": "novRecordLowC>",
+    "value": "-15.4"
+  },
+  {
+    "name": "decRecordLowC>",
+    "value": "-18.5"
+  },
+  {
+    "name": "yearRecordLowC>",
+    "value": "-29.1"
+  },
+  {
+    "name": "rainColour>",
+    "value": "green"
+  },
+  {
+    "name": "janRainMm>",
+    "value": "67.8"
+  },
+  {
+    "name": "febRainMm>",
+    "value": "49.9"
+  },
+  {
+    "name": "marRainMm>",
+    "value": "67.7"
+  },
+  {
+    "name": "aprRainMm>",
+    "value": "43"
+  },
+  {
+    "name": "mayRainMm>",
+    "value": "57.4"
+  },
+  {
+    "name": "junRainMm>",
+    "value": "78.6"
+  },
+  {
+    "name": "julRainMm>",
+    "value": "76.7"
+  },
+  {
+    "name": "augRainMm>",
+    "value": "78.9"
+  },
+  {
+    "name": "sepRainMm>",
+    "value": "67.4"
+  },
+  {
+    "name": "octRainMm>",
+    "value": "67"
+  },
+  {
+    "name": "novRainMm>",
+    "value": "69.2"
+  },
+  {
+    "name": "decRainMm>",
+    "value": "68.9"
+  },
+  {
+    "name": "yearRainMm>",
+    "value": "792.6"
+  },
+  {
+    "name": "unitRainDays>",
+    "value": "1.0"
+  },
+  {
+    "name": "janRainDays>",
+    "value": "12.1"
+  },
+  {
+    "name": "febRainDays>",
+    "value": "9.2"
+  },
+  {
+    "name": "marRainDays>",
+    "value": "11.3"
+  },
+  {
+    "name": "aprRainDays>",
+    "value": "8.9"
+  },
+  {
+    "name": "mayRainDays>",
+    "value": "9.6"
+  },
+  {
+    "name": "junRainDays>",
+    "value": "11.3"
+  },
+  {
+    "name": "julRainDays>",
+    "value": "11.4"
+  },
+  {
+    "name": "augRainDays>",
+    "value": "10.2"
+  },
+  {
+    "name": "sepRainDays>",
+    "value": "10.8"
+  },
+  {
+    "name": "octRainDays>",
+    "value": "10.5"
+  },
+  {
+    "name": "novRainDays>",
+    "value": "11.7"
+  },
+  {
+    "name": "decRainDays>",
+    "value": "12.4"
+  },
+  {
+    "name": "janSun>",
+    "value": "46.9"
+  },
+  {
+    "name": "febSun>",
+    "value": "69"
+  },
+  {
+    "name": "marSun>",
+    "value": "108.8"
+  },
+  {
+    "name": "aprSun>",
+    "value": "171.6"
+  },
+  {
+    "name": "maySun>",
+    "value": "223.4"
+  },
+  {
+    "name": "junSun>",
+    "value": "198.7"
+  },
+  {
+    "name": "julSun>",
+    "value": "217.5"
+  },
+  {
+    "name": "augSun>",
+    "value": "203.1"
+  },
+  {
+    "name": "sepSun>",
+    "value": "144.6"
+  },
+  {
+    "name": "octSun>",
+    "value": "107.9"
+  },
+  {
+    "name": "novSun>",
+    "value": "53"
+  },
+  {
+    "name": "decSun>",
+    "value": "37.4"
+  },
+  {
+    "name": "janUv>",
+    "value": "0"
+  },
+  {
+    "name": "febUv>",
+    "value": "1"
+  },
+  {
+    "name": "marUv>",
+    "value": "2"
+  },
+  {
+    "name": "aprUv>",
+    "value": "4"
+  },
+  {
+    "name": "mayUv>",
+    "value": "5"
+  },
+  {
+    "name": "junUv>",
+    "value": "6"
+  },
+  {
+    "name": "julUv>",
+    "value": "6"
+  },
+  {
+    "name": "augUv>",
+    "value": "5"
+  },
+  {
+    "name": "sepUv>",
+    "value": "4"
+  },
+  {
+    "name": "octUv>",
+    "value": "2"
+  },
+  {
+    "name": "novUv>",
+    "value": "1"
+  },
+  {
+    "name": "decUv>",
+    "value": "0"
+  },
+  {
+    "name": "source>",
+    "value": "WMO , DWD and Weather Atlas"
+  },
+  {
+    "name": "climate",
+    "value": "@en ."
+  },
+  {
+    "name": "collapsed>",
+    "value": "y"
+  },
+  {
+    "name": "metricFirst>",
+    "value": "y"
+  },
+  {
+    "name": "singleLine>",
+    "value": "y"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "0.5"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "1.1"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "3.7"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "7.3"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "12.2"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "15.5"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "16.8"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "16.6"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "13.5"
+  },
+  {
+    "name": "octMeanC>",
+    "value": "9.7"
+  },
+  {
+    "name": "novMeanC>",
+    "value": "5.1"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "1.9"
+  },
+  {
+    "name": "janHighC>",
+    "value": "2.7"
+  },
+  {
+    "name": "febHighC>",
+    "value": "3.8"
+  },
+  {
+    "name": "marHighC>",
+    "value": "7.2"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "11.9"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "17"
+  },
+  {
+    "name": "junHighC>",
+    "value": "20.2"
+  },
+  {
+    "name": "julHighC>",
+    "value": "21.4"
+  },
+  {
+    "name": "augHighC>",
+    "value": "21.6"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "18"
+  },
+  {
+    "name": "octHighC>",
+    "value": "13.3"
+  },
+  {
+    "name": "novHighC>",
+    "value": "7.6"
+  },
+  {
+    "name": "decHighC>",
+    "value": "4"
+  },
+  {
+    "name": "janRecordHighC>",
+    "value": "12.8"
+  },
+  {
+    "name": "febRecordHighC>",
+    "value": "16.7"
+  },
+  {
+    "name": "mayRecordHighC>",
+    "value": "29.2"
+  },
+  {
+    "name": "junRecordHighC>",
+    "value": "32.7"
+  },
+  {
+    "name": "julRecordHighC>",
+    "value": "33.2"
+  },
+  {
+    "name": "augRecordHighC>",
+    "value": "34.8"
+  },
+  {
+    "name": "sepRecordHighC>",
+    "value": "30.3"
+  },
+  {
+    "name": "octRecordHighC>",
+    "value": "24"
+  },
+  {
+    "name": "janLowC>",
+    "value": "-2.2"
+  },
+  {
+    "name": "febLowC>",
+    "value": "-1.8"
+  },
+  {
+    "name": "marLowC>",
+    "value": "0.4"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "3"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "7.2"
+  },
+  {
+    "name": "junLowC>",
+    "value": "10.4"
+  },
+  {
+    "name": "julLowC>",
+    "value": "12.2"
+  },
+  {
+    "name": "augLowC>",
+    "value": "11.9"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "9.4"
+  },
+  {
+    "name": "octLowC>",
+    "value": "6.3"
+  },
+  {
+    "name": "novLowC>",
+    "value": "2.5"
+  },
+  {
+    "name": "decLowC>",
+    "value": "-0.7"
+  },
+  {
+    "name": "janRecordLowC>",
+    "value": "-20.8"
+  },
+  {
+    "name": "febRecordLowC>",
+    "value": "-18.7"
+  },
+  {
+    "name": "marRecordLowC>",
+    "value": "-13.8"
+  },
+  {
+    "name": "aprRecordLowC>",
+    "value": "-6.5"
+  },
+  {
+    "name": "mayRecordLowC>",
+    "value": "-2.2"
+  },
+  {
+    "name": "julRecordLowC>",
+    "value": "4.2"
+  },
+  {
+    "name": "sepRecordLowC>",
+    "value": "-0.6"
+  },
+  {
+    "name": "octRecordLowC>",
+    "value": "-3.3"
+  },
+  {
+    "name": "precipitationColour>",
+    "value": "green"
+  },
+  {
+    "name": "janPrecipitationMm>",
+    "value": "61"
+  },
+  {
+    "name": "febPrecipitationMm>",
+    "value": "41"
+  },
+  {
+    "name": "marPrecipitationMm>",
+    "value": "56"
+  },
+  {
+    "name": "aprPrecipitationMm>",
+    "value": "51"
+  },
+  {
+    "name": "mayPrecipitationMm>",
+    "value": "57"
+  },
+  {
+    "name": "junPrecipitationMm>",
+    "value": "74"
+  },
+  {
+    "name": "julPrecipitationMm>",
+    "value": "82"
+  },
+  {
+    "name": "augPrecipitationMm>",
+    "value": "70"
+  },
+  {
+    "name": "sepPrecipitationMm>",
+    "value": "70"
+  },
+  {
+    "name": "octPrecipitationMm>",
+    "value": "63"
+  },
+  {
+    "name": "novPrecipitationMm>",
+    "value": "71"
+  },
+  {
+    "name": "decPrecipitationMm>",
+    "value": "72"
+  },
+  {
+    "name": "janSun>",
+    "value": "42.2"
+  },
+  {
+    "name": "febSun>",
+    "value": "67"
+  },
+  {
+    "name": "marSun>",
+    "value": "104.7"
+  },
+  {
+    "name": "aprSun>",
+    "value": "160.7"
+  },
+  {
+    "name": "maySun>",
+    "value": "216.8"
+  },
+  {
+    "name": "junSun>",
+    "value": "221.8"
+  },
+  {
+    "name": "julSun>",
+    "value": "206.7"
+  },
+  {
+    "name": "augSun>",
+    "value": "207.3"
+  },
+  {
+    "name": "sepSun>",
+    "value": "141.1"
+  },
+  {
+    "name": "octSun>",
+    "value": "100.7"
+  },
+  {
+    "name": "decSun>",
+    "value": "35.2"
+  },
+  {
+    "name": "unitPrecipitationDays>",
+    "value": "1.0"
+  },
+  {
+    "name": "janPrecipitationDays>",
+    "value": "12"
+  },
+  {
+    "name": "febPrecipitationDays>",
+    "value": "9"
+  },
+  {
+    "name": "marPrecipitationDays>",
+    "value": "11"
+  },
+  {
+    "name": "aprPrecipitationDays>",
+    "value": "10"
+  },
+  {
+    "name": "mayPrecipitationDays>",
+    "value": "10"
+  },
+  {
+    "name": "junPrecipitationDays>",
+    "value": "11"
+  },
+  {
+    "name": "julPrecipitationDays>",
+    "value": "12"
+  },
+  {
+    "name": "augPrecipitationDays>",
+    "value": "11"
+  },
+  {
+    "name": "sepPrecipitationDays>",
+    "value": "11"
+  },
+  {
+    "name": "octPrecipitationDays>",
+    "value": "10"
+  },
+  {
+    "name": "novPrecipitationDays>",
+    "value": "12"
+  },
+  {
+    "name": "decPrecipitationDays>",
+    "value": "12"
+  },
+  {
+    "name": "title>",
+    "value": "Religion in Hamburg – 2018"
+  },
+  {
+    "name": "left>",
+    "value": "religion"
+  },
+  {
+    "name": "right>",
+    "value": "percent"
+  },
+  {
+    "name": "float>",
+    "value": "left"
+  },
+  {
+    "name": "center>",
+    "value": "Hamburg"
+  },
+  {
+    "name": "title>",
+    "value": "Hamburg in history"
+  }
+]

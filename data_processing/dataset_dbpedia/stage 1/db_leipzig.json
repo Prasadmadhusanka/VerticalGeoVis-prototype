@@ -1,0 +1,578 @@
+[
+  {
+    "name": "rdf-schema#label>",
+    "value": "Leipzig"
+  },
+  {
+    "name": "wikiPageID>",
+    "value": "17955"
+  },
+  {
+    "name": "wikiPageRevisionID>",
+    "value": "1064730690"
+  },
+  {
+    "name": "wikiPageLength>",
+    "value": "133316"
+  },
+  {
+    "name": "abstract>",
+    "value": "Leipzig (, German: [ˈlaɪptsɪç] (); Upper Saxon: Leibz'sch; Upper Sorbian: Lipsk) is the most populous city in the German state of Saxony. With a population of 605,407 inhabitants as of 2021 (1.1 million residents in the larger urban zone), it surpasses the Saxon capital of Dresden, and is Germany's eighth most populous city as well as the second most populous city in the area of former East Germany after (East) Berlin. Together with Halle (Saale), the largest city of the neighbouring state of Saxony-Anhalt, the city forms the polycentric Leipzig-Halle Conurbation. Between the two cities (in Schkeuditz) lies Leipzig/Halle Airport. Leipzig is located about 160 kilometres (100 mi) southwest of Berlin in the Leipzig Bay, which constitutes the southernmost part of the North German Plain, at the confluence of the White Elster River (progression: Saale→ Elbe→ North Sea) and two of its tributaries: the Pleiße and the Parthe. The name of the city as well as the names of many of its boroughs are of Slavic origin. Leipzig has been a trade city since at least the time of the Holy Roman Empire. The city sits at the intersection of the Via Regia and the Via Imperii, two important medieval trade routes. Leipzig was once one of the major European centres of learning and culture in fields such as music and publishing. After the Second World War and during the period of the German Democratic Republic (East Germany) Leipzig remained a major urban centre in East Germany, but its cultural and economic importance declined. Events in Leipzig in 1989 played a significant role in precipitating the fall of communism in Central and Eastern Europe, mainly through demonstrations starting from St. Nicholas Church. The immediate effects of the reunification of Germany included the collapse of the local economy (which had come to depend on highly polluting heavy industry), severe unemployment, and urban blight. Starting around 2000, however, the decline was first arrested and then reversed and, since then, Leipzig has seen significant changes with the restoration of major historical buildings, the demolition of derelict properties of little historical value, and the development of new industries and a modern transport infrastructure. Leipzig today is an economic centre, is rated as the most livable city in Germany by the GfK marketing research institution, and has the second-best future prospects of all cities in Germany according to the Hamburg Institute of International Economics (HWWI) and Berenberg Bank. The city is one of two seats of the German National Library, as well as the seat of the German Federal Administrative Court. Leipzig Zoo is one of the most modern zoos in Europe and ranks first in Germany and second in Europe. Since the opening of the Leipzig City Tunnel in 2013, Leipzig forms the centrepiece of the S-Bahn Mitteldeutschland public transit system. Leipzig is currently listed as a "
+  },
+  {
+    "name": "rdf-schema#comment>",
+    "value": "Leipzig (, German: [ˈlaɪptsɪç] (); Upper Saxon: Leibz'sch; Upper Sorbian: Lipsk) is the most populous city in the German state of Saxony. With a population of 605,407 inhabitants as of 2021 (1.1 million residents in the larger urban zone), it surpasses the Saxon capital of Dresden, and is Germany's eighth most populous city as well as the second most populous city in the area of former East Germany after (East) Berlin. Together with Halle (Saale), the largest city of the neighbouring state of Saxony-Anhalt, the city forms the polycentric Leipzig-Halle Conurbation. Between the two cities (in Schkeuditz) lies Leipzig/Halle Airport."
+  },
+  {
+    "name": "wikiPageOutDegree>",
+    "value": "739"
+  },
+  {
+    "name": "populationMetro>",
+    "value": "1001220"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Oberbürgermeister"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "2.9736E8"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "297.36"
+  },
+  {
+    "name": "postalCode>",
+    "value": "04001–04357"
+  },
+  {
+    "name": "areaCode>",
+    "value": "0341"
+  },
+  {
+    "name": "licenceNumber>",
+    "value": "L"
+  },
+  {
+    "name": "wgs84_pos#lat>",
+    "value": "51.333333333333336"
+  },
+  {
+    "name": "wgs84_pos#long>",
+    "value": "12.383333333333333"
+  },
+  {
+    "name": "point>",
+    "value": "51.333333333333336 12.383333333333333"
+  },
+  {
+    "name": "language>",
+    "value": "en"
+  },
+  {
+    "name": "type>",
+    "value": "City"
+  },
+  {
+    "name": "imageFlag>",
+    "value": "Flag of Leipzig.svg"
+  },
+  {
+    "name": "imageCoa>",
+    "value": "Coat of arms of Leipzig.svg"
+  },
+  {
+    "name": "state>",
+    "value": "Sachsen"
+  },
+  {
+    "name": "district>",
+    "value": "urban"
+  },
+  {
+    "name": "area>",
+    "value": "297.36"
+  },
+  {
+    "name": "gemeindeschlüssel>",
+    "value": "14713000"
+  },
+  {
+    "name": "popMetro>",
+    "value": "1001220"
+  },
+  {
+    "name": "postalCode>",
+    "value": "4001"
+  },
+  {
+    "name": "areaCode>",
+    "value": "341"
+  },
+  {
+    "name": "licence>",
+    "value": "L"
+  },
+  {
+    "name": "leaderTerm>",
+    "value": "2020"
+  },
+  {
+    "name": "bürgermeistertitel>",
+    "value": "Oberbürgermeister"
+  },
+  {
+    "name": "party>",
+    "value": "SPD"
+  },
+  {
+    "name": "align>",
+    "value": "right"
+  },
+  {
+    "name": "image>",
+    "value": "Federal Administrative Court Leipzig at night 2 .jpg"
+  },
+  {
+    "name": "width>",
+    "value": "280"
+  },
+  {
+    "name": "image>",
+    "value": "Universität Leipzig - Paulinum – Aula und Universitätskirche St. Pauli .JPG"
+  },
+  {
+    "name": "width>",
+    "value": "265"
+  },
+  {
+    "name": "caption>",
+    "value": "The 153-metre-high City-Hochhaus Leipzig and the Augusteum of the University of Leipzig"
+  },
+  {
+    "name": "location>",
+    "value": "Leipzig/Halle, Germany for 1981–2010, temperature records for 1973–2013, sunshine hours for 1991 to 2013"
+  },
+  {
+    "name": "metricFirst>",
+    "value": "Yes"
+  },
+  {
+    "name": "singleLine>",
+    "value": "Yes"
+  },
+  {
+    "name": "janRecordHighC>",
+    "value": "15.9"
+  },
+  {
+    "name": "febRecordHighC>",
+    "value": "18.6"
+  },
+  {
+    "name": "marRecordHighC>",
+    "value": "23"
+  },
+  {
+    "name": "aprRecordHighC>",
+    "value": "29.5"
+  },
+  {
+    "name": "mayRecordHighC>",
+    "value": "31.9"
+  },
+  {
+    "name": "junRecordHighC>",
+    "value": "34.8"
+  },
+  {
+    "name": "julRecordHighC>",
+    "value": "36.6"
+  },
+  {
+    "name": "augRecordHighC>",
+    "value": "37.2"
+  },
+  {
+    "name": "sepRecordHighC>",
+    "value": "32.9"
+  },
+  {
+    "name": "octRecordHighC>",
+    "value": "28.2"
+  },
+  {
+    "name": "novRecordHighC>",
+    "value": "18.7"
+  },
+  {
+    "name": "decRecordHighC>",
+    "value": "16.5"
+  },
+  {
+    "name": "yearRecordHighC>",
+    "value": "37.2"
+  },
+  {
+    "name": "janHighC>",
+    "value": "3.2"
+  },
+  {
+    "name": "febHighC>",
+    "value": "4.3"
+  },
+  {
+    "name": "marHighC>",
+    "value": "8.7"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "13.9"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "19"
+  },
+  {
+    "name": "junHighC>",
+    "value": "21.7"
+  },
+  {
+    "name": "julHighC>",
+    "value": "24.5"
+  },
+  {
+    "name": "augHighC>",
+    "value": "24.1"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "19.3"
+  },
+  {
+    "name": "octHighC>",
+    "value": "14"
+  },
+  {
+    "name": "novHighC>",
+    "value": "7.6"
+  },
+  {
+    "name": "decHighC>",
+    "value": "3.6"
+  },
+  {
+    "name": "yearHighC>",
+    "value": "13.67"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "0.5"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "1.1"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "4.7"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "8.9"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "13.8"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "16.5"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "19"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "18.6"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "14.4"
+  },
+  {
+    "name": "octMeanC>",
+    "value": "9.8"
+  },
+  {
+    "name": "novMeanC>",
+    "value": "4.7"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "1.3"
+  },
+  {
+    "name": "yearMeanC>",
+    "value": "9.45"
+  },
+  {
+    "name": "janLowC>",
+    "value": "-2.2"
+  },
+  {
+    "name": "febLowC>",
+    "value": "-2"
+  },
+  {
+    "name": "marLowC>",
+    "value": "1.1"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "4.1"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "8.5"
+  },
+  {
+    "name": "junLowC>",
+    "value": "11.5"
+  },
+  {
+    "name": "julLowC>",
+    "value": "13.8"
+  },
+  {
+    "name": "augLowC>",
+    "value": "13.6"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "10.1"
+  },
+  {
+    "name": "octLowC>",
+    "value": "6.2"
+  },
+  {
+    "name": "novLowC>",
+    "value": "2"
+  },
+  {
+    "name": "decLowC>",
+    "value": "-1.2"
+  },
+  {
+    "name": "yearLowC>",
+    "value": "5.47"
+  },
+  {
+    "name": "janRecordLowC>",
+    "value": "-27.6"
+  },
+  {
+    "name": "febRecordLowC>",
+    "value": "-21.6"
+  },
+  {
+    "name": "marRecordLowC>",
+    "value": "-16.6"
+  },
+  {
+    "name": "aprRecordLowC>",
+    "value": "-6.5"
+  },
+  {
+    "name": "mayRecordLowC>",
+    "value": "-2.6"
+  },
+  {
+    "name": "junRecordLowC>",
+    "value": "1.8"
+  },
+  {
+    "name": "julRecordLowC>",
+    "value": "5.7"
+  },
+  {
+    "name": "augRecordLowC>",
+    "value": "5.5"
+  },
+  {
+    "name": "sepRecordLowC>",
+    "value": "0.5"
+  },
+  {
+    "name": "octRecordLowC>",
+    "value": "-6.7"
+  },
+  {
+    "name": "novRecordLowC>",
+    "value": "-12.9"
+  },
+  {
+    "name": "decRecordLowC>",
+    "value": "-20.2"
+  },
+  {
+    "name": "yearRecordLowC>",
+    "value": "-27.6"
+  },
+  {
+    "name": "precipitationColour>",
+    "value": "green"
+  },
+  {
+    "name": "janPrecipitationMm>",
+    "value": "31.9"
+  },
+  {
+    "name": "febPrecipitationMm>",
+    "value": "26.3"
+  },
+  {
+    "name": "marPrecipitationMm>",
+    "value": "38.8"
+  },
+  {
+    "name": "aprPrecipitationMm>",
+    "value": "39.6"
+  },
+  {
+    "name": "mayPrecipitationMm>",
+    "value": "46.9"
+  },
+  {
+    "name": "junPrecipitationMm>",
+    "value": "54.8"
+  },
+  {
+    "name": "julPrecipitationMm>",
+    "value": "68.9"
+  },
+  {
+    "name": "augPrecipitationMm>",
+    "value": "63.1"
+  },
+  {
+    "name": "sepPrecipitationMm>",
+    "value": "49.9"
+  },
+  {
+    "name": "octPrecipitationMm>",
+    "value": "31"
+  },
+  {
+    "name": "novPrecipitationMm>",
+    "value": "43.4"
+  },
+  {
+    "name": "decPrecipitationMm>",
+    "value": "39.8"
+  },
+  {
+    "name": "yearPrecipitationMm>",
+    "value": "534.1"
+  },
+  {
+    "name": "janSun>",
+    "value": "62.8"
+  },
+  {
+    "name": "febSun>",
+    "value": "77.8"
+  },
+  {
+    "name": "marSun>",
+    "value": "124.5"
+  },
+  {
+    "name": "aprSun>",
+    "value": "181.7"
+  },
+  {
+    "name": "maySun>",
+    "value": "227.4"
+  },
+  {
+    "name": "junSun>",
+    "value": "224.8"
+  },
+  {
+    "name": "julSun>",
+    "value": "229"
+  },
+  {
+    "name": "augSun>",
+    "value": "213.1"
+  },
+  {
+    "name": "sepSun>",
+    "value": "160.9"
+  },
+  {
+    "name": "octSun>",
+    "value": "122.9"
+  },
+  {
+    "name": "novSun>",
+    "value": "61.5"
+  },
+  {
+    "name": "decSun>",
+    "value": "51.1"
+  },
+  {
+    "name": "yearSun>",
+    "value": "1737.3"
+  },
+  {
+    "name": "source>",
+    "value": "Data derived from Deutscher Wetterdienst, note"
+  },
+  {
+    "name": "image>",
+    "value": "Leipzig Palais Roßbach.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "150"
+  },
+  {
+    "name": "caption>",
+    "value": "Palais Roßbach, one of the many Gründerzeit buildings in Leipzig"
+  },
+  {
+    "name": "image>",
+    "value": "Mädlerpassage Figurenpruppen Auerbachs Keller Leipzig 052-cvh.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "185"
+  },
+  {
+    "name": "caption>",
+    "value": "Mädler Passage, one of 24 covered passages in Leipzig city centre"
+  },
+  {
+    "name": "date>",
+    "value": "2020-08-03"
+  },
+  {
+    "name": "date>",
+    "value": "2012-07-08"
+  },
+  {
+    "name": "date>",
+    "value": "2021-03-02"
+  },
+  {
+    "name": "center>",
+    "value": "Leipzig"
+  }
+]

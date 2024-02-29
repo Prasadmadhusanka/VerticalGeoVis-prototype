@@ -1,0 +1,842 @@
+[
+  {
+    "name": "rdf-schema#label>",
+    "value": "Essen"
+  },
+  {
+    "name": "wikiPageID>",
+    "value": "173973"
+  },
+  {
+    "name": "wikiPageRevisionID>",
+    "value": "1059466927"
+  },
+  {
+    "name": "wikiPageLength>",
+    "value": "83330"
+  },
+  {
+    "name": "abstract>",
+    "value": "Essen (German pronunciation: [ˈɛsn̩] (); Latin: Assindia) is the central and, after Dortmund, second-largest city of the Ruhr, the largest urban area in Germany. Its population of 582,415 makes it the fourth-largest city of North Rhine-Westphalia after Cologne, Düsseldorf and Dortmund, as well as the ninth-largest city of Germany. Essen lies in the larger Rhine-Ruhr Metropolitan Region and is part of the cultural area Rhineland. Because of its central location in the Ruhr, Essen is often regarded as the Ruhr's "
+  },
+  {
+    "name": "rdf-schema#comment>",
+    "value": "Essen (German pronunciation: [ˈɛsn̩] (); Latin: Assindia) is the central and, after Dortmund, second-largest city of the Ruhr, the largest urban area in Germany. Its population of 582,415 makes it the fourth-largest city of North Rhine-Westphalia after Cologne, Düsseldorf and Dortmund, as well as the ninth-largest city of Germany. Essen lies in the larger Rhine-Ruhr Metropolitan Region and is part of the cultural area Rhineland. Because of its central location in the Ruhr, Essen is often regarded as the Ruhr's "
+  },
+  {
+    "name": "wikiPageOutDegree>",
+    "value": "509"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Oberbürgermeister"
+  },
+  {
+    "name": "elevation>",
+    "value": "116.0"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "2.1034E8"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "210.34"
+  },
+  {
+    "name": "postalCode>",
+    "value": "45001–45359"
+  },
+  {
+    "name": "areaCode>",
+    "value": "0201, 02054 (Kettwig)"
+  },
+  {
+    "name": "licenceNumber>",
+    "value": "E"
+  },
+  {
+    "name": "wgs84_pos#lat>",
+    "value": "51.450833333333335"
+  },
+  {
+    "name": "wgs84_pos#long>",
+    "value": "7.013055555555556"
+  },
+  {
+    "name": "point>",
+    "value": "51.450833333333335 7.013055555555556"
+  },
+  {
+    "name": "language>",
+    "value": "en"
+  },
+  {
+    "name": "type>",
+    "value": "City"
+  },
+  {
+    "name": "imageCaption>",
+    "value": "Clockwise from top: Skyline of the city, Essen Business District, Essen Minster, Villa Hügel, Essen Saalbau, UNESCO world heritage site Zollverein Coal Mine Industrial Complex, Borbeck Castle, ThyssenKrupp Headquarters"
+  },
+  {
+    "name": "imageFlag>",
+    "value": "Flagge Essen.svg"
+  },
+  {
+    "name": "imageCoa>",
+    "value": "DEU Essen COA.svg"
+  },
+  {
+    "name": "imagePlan>",
+    "value": "North rhine w E.svg"
+  },
+  {
+    "name": "state>",
+    "value": "North Rhine-Westphalia"
+  },
+  {
+    "name": "district>",
+    "value": "urban"
+  },
+  {
+    "name": "elevation>",
+    "value": "116"
+  },
+  {
+    "name": "area>",
+    "value": "210.34"
+  },
+  {
+    "name": "postalCode>",
+    "value": "45001"
+  },
+  {
+    "name": "areaCode>",
+    "value": "20102054"
+  },
+  {
+    "name": "licence>",
+    "value": "E"
+  },
+  {
+    "name": "gemeindeschlüssel>",
+    "value": "5113000"
+  },
+  {
+    "name": "divisions>",
+    "value": "9"
+  },
+  {
+    "name": "leaderTerm>",
+    "value": "2020"
+  },
+  {
+    "name": "bürgermeistertitel>",
+    "value": "Oberbürgermeister"
+  },
+  {
+    "name": "party>",
+    "value": "CDU"
+  },
+  {
+    "name": "width>",
+    "value": "100.0"
+  },
+  {
+    "name": "location>",
+    "value": "9120.0"
+  },
+  {
+    "name": "metricFirst>",
+    "value": "yes"
+  },
+  {
+    "name": "singleLine>",
+    "value": "yes"
+  },
+  {
+    "name": "janHighC>",
+    "value": "4.5"
+  },
+  {
+    "name": "febHighC>",
+    "value": "5.5"
+  },
+  {
+    "name": "marHighC>",
+    "value": "9.1"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "12.7"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "17.6"
+  },
+  {
+    "name": "junHighC>",
+    "value": "19.9"
+  },
+  {
+    "name": "julHighC>",
+    "value": "22.2"
+  },
+  {
+    "name": "augHighC>",
+    "value": "22.3"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "18.3"
+  },
+  {
+    "name": "octHighC>",
+    "value": "13.7"
+  },
+  {
+    "name": "novHighC>",
+    "value": "8.2"
+  },
+  {
+    "name": "decHighC>",
+    "value": "5.6"
+  },
+  {
+    "name": "yearHighC>",
+    "value": "13.3"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "2.4"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "2.9"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "6"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "8.9"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "13.4"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "15.8"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "18"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "18"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "14.7"
+  },
+  {
+    "name": "octMeanC>",
+    "value": "10.7"
+  },
+  {
+    "name": "novMeanC>",
+    "value": "5.9"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "3.6"
+  },
+  {
+    "name": "yearMeanC>",
+    "value": "10"
+  },
+  {
+    "name": "janLowC>",
+    "value": "0.2"
+  },
+  {
+    "name": "febLowC>",
+    "value": "0.3"
+  },
+  {
+    "name": "marLowC>",
+    "value": "2.9"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "5"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "9.1"
+  },
+  {
+    "name": "junLowC>",
+    "value": "11.6"
+  },
+  {
+    "name": "julLowC>",
+    "value": "13.7"
+  },
+  {
+    "name": "augLowC>",
+    "value": "13.7"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "11.1"
+  },
+  {
+    "name": "octLowC>",
+    "value": "7.6"
+  },
+  {
+    "name": "novLowC>",
+    "value": "3.6"
+  },
+  {
+    "name": "decLowC>",
+    "value": "1.6"
+  },
+  {
+    "name": "yearLowC>",
+    "value": "6.7"
+  },
+  {
+    "name": "precipitationColour>",
+    "value": "green"
+  },
+  {
+    "name": "janPrecipitationMm>",
+    "value": "84.5"
+  },
+  {
+    "name": "febPrecipitationMm>",
+    "value": "58.1"
+  },
+  {
+    "name": "marPrecipitationMm>",
+    "value": "78.2"
+  },
+  {
+    "name": "aprPrecipitationMm>",
+    "value": "61"
+  },
+  {
+    "name": "mayPrecipitationMm>",
+    "value": "72.2"
+  },
+  {
+    "name": "junPrecipitationMm>",
+    "value": "92.8"
+  },
+  {
+    "name": "julPrecipitationMm>",
+    "value": "81.2"
+  },
+  {
+    "name": "augPrecipitationMm>",
+    "value": "78.8"
+  },
+  {
+    "name": "sepPrecipitationMm>",
+    "value": "78"
+  },
+  {
+    "name": "octPrecipitationMm>",
+    "value": "75.1"
+  },
+  {
+    "name": "novPrecipitationMm>",
+    "value": "81.1"
+  },
+  {
+    "name": "decPrecipitationMm>",
+    "value": "93.1"
+  },
+  {
+    "name": "yearPrecipitationMm>",
+    "value": "934.1"
+  },
+  {
+    "name": "janPrecipitationDays>",
+    "value": "14.1"
+  },
+  {
+    "name": "febPrecipitationDays>",
+    "value": "10.5"
+  },
+  {
+    "name": "marPrecipitationDays>",
+    "value": "13.6"
+  },
+  {
+    "name": "aprPrecipitationDays>",
+    "value": "11.1"
+  },
+  {
+    "name": "mayPrecipitationDays>",
+    "value": "11.1"
+  },
+  {
+    "name": "junPrecipitationDays>",
+    "value": "12"
+  },
+  {
+    "name": "julPrecipitationDays>",
+    "value": "10.4"
+  },
+  {
+    "name": "augPrecipitationDays>",
+    "value": "9.9"
+  },
+  {
+    "name": "sepPrecipitationDays>",
+    "value": "11.2"
+  },
+  {
+    "name": "octPrecipitationDays>",
+    "value": "10.9"
+  },
+  {
+    "name": "novPrecipitationDays>",
+    "value": "13.6"
+  },
+  {
+    "name": "decPrecipitationDays>",
+    "value": "14.1"
+  },
+  {
+    "name": "yearPrecipitationDays>",
+    "value": "142.5"
+  },
+  {
+    "name": "date>",
+    "value": "August 2010"
+  },
+  {
+    "name": "collapsed>",
+    "value": "y"
+  },
+  {
+    "name": "metricFirst>",
+    "value": "y"
+  },
+  {
+    "name": "singleLine>",
+    "value": "y"
+  },
+  {
+    "name": "location>",
+    "value": "9660.0"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "1.9"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "2.5"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "5.1"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "8.5"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "12.9"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "15.7"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "17.4"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "17.2"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "14.4"
+  },
+  {
+    "name": "novMeanC>",
+    "value": "5.7"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "2.9"
+  },
+  {
+    "name": "janHighC>",
+    "value": "3.9"
+  },
+  {
+    "name": "febHighC>",
+    "value": "5.1"
+  },
+  {
+    "name": "marHighC>",
+    "value": "8.3"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "12.4"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "17.1"
+  },
+  {
+    "name": "junHighC>",
+    "value": "20"
+  },
+  {
+    "name": "julHighC>",
+    "value": "21.6"
+  },
+  {
+    "name": "augHighC>",
+    "value": "21.6"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "18.4"
+  },
+  {
+    "name": "octHighC>",
+    "value": "14"
+  },
+  {
+    "name": "novHighC>",
+    "value": "8.1"
+  },
+  {
+    "name": "decHighC>",
+    "value": "4.9"
+  },
+  {
+    "name": "janRecordHighC>",
+    "value": "13.5"
+  },
+  {
+    "name": "febRecordHighC>",
+    "value": "18.7"
+  },
+  {
+    "name": "marRecordHighC>",
+    "value": "23.2"
+  },
+  {
+    "name": "aprRecordHighC>",
+    "value": "28.9"
+  },
+  {
+    "name": "mayRecordHighC>",
+    "value": "29.8"
+  },
+  {
+    "name": "junRecordHighC>",
+    "value": "32.3"
+  },
+  {
+    "name": "julRecordHighC>",
+    "value": "33.5"
+  },
+  {
+    "name": "augRecordHighC>",
+    "value": "34.3"
+  },
+  {
+    "name": "sepRecordHighC>",
+    "value": "30.6"
+  },
+  {
+    "name": "octRecordHighC>",
+    "value": "26.1"
+  },
+  {
+    "name": "novRecordHighC>",
+    "value": "19.8"
+  },
+  {
+    "name": "decRecordHighC>",
+    "value": "15.8"
+  },
+  {
+    "name": "janLowC>",
+    "value": "-0.3"
+  },
+  {
+    "name": "febLowC>",
+    "value": "0"
+  },
+  {
+    "name": "marLowC>",
+    "value": "2.2"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "4.8"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "8.7"
+  },
+  {
+    "name": "junLowC>",
+    "value": "11.5"
+  },
+  {
+    "name": "julLowC>",
+    "value": "13.2"
+  },
+  {
+    "name": "augLowC>",
+    "value": "13.3"
+  },
+  {
+    "name": "octLowC>",
+    "value": "7.9"
+  },
+  {
+    "name": "novLowC>",
+    "value": "3.5"
+  },
+  {
+    "name": "decLowC>",
+    "value": "0.9"
+  },
+  {
+    "name": "janRecordLowC>",
+    "value": "-17.1"
+  },
+  {
+    "name": "febRecordLowC>",
+    "value": "-15.9"
+  },
+  {
+    "name": "marRecordLowC>",
+    "value": "-11.1"
+  },
+  {
+    "name": "aprRecordLowC>",
+    "value": "-4.6"
+  },
+  {
+    "name": "mayRecordLowC>",
+    "value": "-0.6"
+  },
+  {
+    "name": "junRecordLowC>",
+    "value": "1"
+  },
+  {
+    "name": "julRecordLowC>",
+    "value": "4.4"
+  },
+  {
+    "name": "augRecordLowC>",
+    "value": "6"
+  },
+  {
+    "name": "sepRecordLowC>",
+    "value": "3.2"
+  },
+  {
+    "name": "octRecordLowC>",
+    "value": "-2.3"
+  },
+  {
+    "name": "novRecordLowC>",
+    "value": "-6.7"
+  },
+  {
+    "name": "decRecordLowC>",
+    "value": "-16.7"
+  },
+  {
+    "name": "janPrecipitationMm>",
+    "value": "81"
+  },
+  {
+    "name": "febPrecipitationMm>",
+    "value": "57"
+  },
+  {
+    "name": "marPrecipitationMm>",
+    "value": "75"
+  },
+  {
+    "name": "aprPrecipitationMm>",
+    "value": "68"
+  },
+  {
+    "name": "mayPrecipitationMm>",
+    "value": "73"
+  },
+  {
+    "name": "junPrecipitationMm>",
+    "value": "97"
+  },
+  {
+    "name": "julPrecipitationMm>",
+    "value": "89"
+  },
+  {
+    "name": "augPrecipitationMm>",
+    "value": "77"
+  },
+  {
+    "name": "sepPrecipitationMm>",
+    "value": "73"
+  },
+  {
+    "name": "octPrecipitationMm>",
+    "value": "70"
+  },
+  {
+    "name": "novPrecipitationMm>",
+    "value": "83"
+  },
+  {
+    "name": "decPrecipitationMm>",
+    "value": "90"
+  },
+  {
+    "name": "janSun>",
+    "value": "44.5"
+  },
+  {
+    "name": "febSun>",
+    "value": "76.2"
+  },
+  {
+    "name": "marSun>",
+    "value": "102.6"
+  },
+  {
+    "name": "aprSun>",
+    "value": "147"
+  },
+  {
+    "name": "maySun>",
+    "value": "192.6"
+  },
+  {
+    "name": "junSun>",
+    "value": "181.6"
+  },
+  {
+    "name": "julSun>",
+    "value": "186"
+  },
+  {
+    "name": "augSun>",
+    "value": "183.1"
+  },
+  {
+    "name": "sepSun>",
+    "value": "134.5"
+  },
+  {
+    "name": "octSun>",
+    "value": "111.1"
+  },
+  {
+    "name": "novSun>",
+    "value": "55.7"
+  },
+  {
+    "name": "decSun>",
+    "value": "38.8"
+  },
+  {
+    "name": "unitPrecipitationDays>",
+    "value": "1.0"
+  },
+  {
+    "name": "janPrecipitationDays>",
+    "value": "14"
+  },
+  {
+    "name": "febPrecipitationDays>",
+    "value": "10"
+  },
+  {
+    "name": "marPrecipitationDays>",
+    "value": "13"
+  },
+  {
+    "name": "aprPrecipitationDays>",
+    "value": "12"
+  },
+  {
+    "name": "mayPrecipitationDays>",
+    "value": "12"
+  },
+  {
+    "name": "julPrecipitationDays>",
+    "value": "11"
+  },
+  {
+    "name": "augPrecipitationDays>",
+    "value": "10"
+  },
+  {
+    "name": "sepPrecipitationDays>",
+    "value": "11"
+  },
+  {
+    "name": "octPrecipitationDays>",
+    "value": "10"
+  },
+  {
+    "name": "novPrecipitationDays>",
+    "value": "14"
+  },
+  {
+    "name": "decPrecipitationDays>",
+    "value": "14"
+  },
+  {
+    "name": "align>",
+    "value": "right"
+  },
+  {
+    "name": "direction>",
+    "value": "vertical"
+  },
+  {
+    "name": "image>",
+    "value": "Drei Ringe von Krupp.jpg"
+  },
+  {
+    "name": "image>",
+    "value": "Essen, Stammhaus Krupp, 2014-11 CN-02.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "200"
+  },
+  {
+    "name": "footer>",
+    "value": "Three rings of the Krupp logo and the historic house of the Krupp Family in 2014"
+  }
+]

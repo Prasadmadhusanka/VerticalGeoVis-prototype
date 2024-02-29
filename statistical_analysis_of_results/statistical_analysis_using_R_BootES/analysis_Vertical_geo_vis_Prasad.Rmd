@@ -1,0 +1,111 @@
+---
+title: "analysis_Vertical_geo_vis_Prasad"
+author: "Prasad Madushanka Dauglas Dambure Liyanage"
+date: "2024-02-14"
+output: html_document
+---
+
+## Data loading
+```{r}
+current_directory <- getwd()
+setwd(current_directory)
+
+library(readxl)
+
+data <- read_excel("data.xlsx")
+View(data)
+```
+
+## Data Preparation
+```{r}
+# load libraries, set the number of resamples to 5000
+library(bootES)
+library(ggplot2)
+library(dplyr) 
+
+N_resamples = 5000
+```
+
+```{r}
+color1 <-"#00bfff"
+color2 <-"#ff8c00"
+color3 <-"#3cb371"
+```
+
+## Example
+```{r}
+approach_A <- "Visualization Approach 01"
+approach_B <- "Visualization Approach 02"
+parameter <- "average_time"
+group_column <- "visualization_approach"
+
+
+# Subset data for the two values you want to compare
+subset_data <- data %>% filter(visualization_approach %in% c(approach_A, approach_B))
+
+# comparison
+bootES(subset_data, R=N_resamples, data.col=parameter, group.col=group_column, contrast= c(approach_A, approach_B))
+
+
+ggplot(data, aes(y = !!sym(parameter), x= !!sym(group_column), fill=!!sym(group_column))) +
+  geom_boxplot() +  scale_fill_manual(values = c(color1, color2, color3))+ 
+  ggtitle(paste(group_column, parameter, sep = " VS "))
+```
+
+
+```{r}
+attribute_level <- 200
+approach_A <- paste("Visualization Approach 02", attribute_level, sep = "_") 
+approach_B <- paste("Visualization Approach 03", attribute_level, sep = "_") 
+parameter <- "q5_accuracy"
+group_column <- "visualization_approach_attribute_level"
+
+
+# Subset data for the two values you want to compare
+subset_data <- data %>% filter(visualization_approach_attribute_level %in% c(approach_A, approach_B))
+
+# comparison
+bootES(data, R=N_resamples, data.col=parameter, group.col=group_column, contrast= c(approach_A, approach_B))
+
+subset_data1 <- data %>% filter(visualization_approach_attribute_level %in% c(paste("Visualization Approach 01", attribute_level, sep = "_"), paste("Visualization Approach 02", attribute_level, sep = "_"), paste("Visualization Approach 03", attribute_level, sep = "_")))
+
+ggplot(subset_data1, aes(y = !!sym(parameter), x= !!sym(group_column), fill=!!sym(group_column))) +
+  geom_boxplot() +  scale_fill_manual(values = c(color1, color2, color3))+ 
+  ggtitle(paste(group_column, parameter, sep = " VS "))
+```
+
+```{r}
+approach_A <- "Male"
+approach_B <- "Female"
+visualization <- "Visualization Approach 01"
+parameter <- "q5_accuracy"
+group_column <- "gender"
+
+
+# Subset data for the two values you want to compare
+subset_data <- data %>% filter(visualization_approach %in% visualization)
+
+# comparison
+bootES(subset_data, R=N_resamples, data.col=parameter, group.col=group_column, contrast= c(approach_A, approach_B))
+
+ggplot(subset_data, aes(y = !!sym(parameter), x= !!sym(group_column), fill=!!sym(group_column))) +
+  geom_boxplot() +  scale_fill_manual(values = c("#D96E87", "#00bfff"))+ 
+  ggtitle(paste(paste(group_column, parameter, sep = " VS "), visualization, sep = " for ") )
+```
+
+```{r}
+
+visualization <- "Visualization Approach 03"
+parameter <- "q4_accuracy"
+group_column <- "d3_zoomable"
+
+
+# Subset data for the two values you want to compare
+subset_data <- data %>% filter(visualization_approach %in% visualization)
+
+
+ggplot(subset_data, aes(y = !!sym(parameter), x= !!sym(group_column), fill=!!sym(group_column))) +
+  geom_boxplot() +  scale_fill_manual(values = c("#D96E87", "#00bfff", "#F1C40F"))+ 
+  ggtitle(paste(paste(group_column, parameter, sep = " VS "), visualization, sep = " for ") )
+```
+

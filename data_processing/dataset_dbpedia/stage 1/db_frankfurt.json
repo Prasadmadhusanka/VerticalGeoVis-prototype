@@ -1,0 +1,1154 @@
+[
+  {
+    "name": "rdf-schema#label>",
+    "value": "Frankfurt"
+  },
+  {
+    "name": "wikiPageID>",
+    "value": "10992"
+  },
+  {
+    "name": "wikiPageRevisionID>",
+    "value": "1060016016"
+  },
+  {
+    "name": "wikiPageLength>",
+    "value": "207391"
+  },
+  {
+    "name": "abstract>",
+    "value": "Frankfurt, officially Frankfurt am Main (German: [ˈfʁaŋkfʊʁt ʔam ˈmaɪn] (); Hessian: Frangford am Maa, lit. "
+  },
+  {
+    "name": "rdf-schema#comment>",
+    "value": "Frankfurt, officially Frankfurt am Main (German: [ˈfʁaŋkfʊʁt ʔam ˈmaɪn] (); Hessian: Frangford am Maa, lit. "
+  },
+  {
+    "name": "wikiPageOutDegree>",
+    "value": "1535"
+  },
+  {
+    "name": "populationMetro>",
+    "value": "5604523"
+  },
+  {
+    "name": "populationUrban>",
+    "value": "2319029"
+  },
+  {
+    "name": "leaderTitle>",
+    "value": "Lord Mayor"
+  },
+  {
+    "name": "name>",
+    "value": "Frankfurt am Main"
+  },
+  {
+    "name": "elevation>",
+    "value": "112.0"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "2.4831E8"
+  },
+  {
+    "name": "areaTotal>",
+    "value": "248.31"
+  },
+  {
+    "name": "postalCode>",
+    "value": "60306–60599, 65929–65936"
+  },
+  {
+    "name": "areaCode>",
+    "value": "069,06101,06109"
+  },
+  {
+    "name": "licenceNumber>",
+    "value": "F"
+  },
+  {
+    "name": "foundingYear>",
+    "value": "0001"
+  },
+  {
+    "name": "wgs84_pos#lat>",
+    "value": "50.11666666666667"
+  },
+  {
+    "name": "wgs84_pos#long>",
+    "value": "8.683333333333334"
+  },
+  {
+    "name": "point>",
+    "value": "50.11666666666667 8.683333333333334"
+  },
+  {
+    "name": "language>",
+    "value": "en"
+  },
+  {
+    "name": "name>",
+    "value": "Frankfurt am Main"
+  },
+  {
+    "name": "type>",
+    "value": "City"
+  },
+  {
+    "name": "imageCaption>",
+    "value": "Clockwise from top: Frankfurt's skyline, European Central Bank, Romans' Hill with Old St Nicholas Church at night, Romans' Hill, Chicken Market in the New Old Town, Old Opera"
+  },
+  {
+    "name": "imageFlag>",
+    "value": "Flag of Frankfurt am Main.svg"
+  },
+  {
+    "name": "imageCoa>",
+    "value": "Wappen Frankfurt am Main.svg"
+  },
+  {
+    "name": "imagePlan>",
+    "value": "Hesse F.svg"
+  },
+  {
+    "name": "state>",
+    "value": "Hesse"
+  },
+  {
+    "name": "region>",
+    "value": "Darmstadt"
+  },
+  {
+    "name": "district>",
+    "value": "urban"
+  },
+  {
+    "name": "elevation>",
+    "value": "112"
+  },
+  {
+    "name": "area>",
+    "value": "248.31"
+  },
+  {
+    "name": "popUrban>",
+    "value": "2319029"
+  },
+  {
+    "name": "popMetro>",
+    "value": "5604523"
+  },
+  {
+    "name": "postalCode>",
+    "value": "60306"
+  },
+  {
+    "name": "areaCode>",
+    "value": "690610106109"
+  },
+  {
+    "name": "licence>",
+    "value": "F"
+  },
+  {
+    "name": "gemeindeschlüssel>",
+    "value": "6412000"
+  },
+  {
+    "name": "divisions>",
+    "value": "16"
+  },
+  {
+    "name": "divisions>",
+    "value": "46"
+  },
+  {
+    "name": "leaderTerm>",
+    "value": "2018"
+  },
+  {
+    "name": "party>",
+    "value": "SPD"
+  },
+  {
+    "name": "rulingParty>",
+    "value": "CDU"
+  },
+  {
+    "name": "rulingParty>",
+    "value": "SPD"
+  },
+  {
+    "name": "rulingParty>",
+    "value": "Green"
+  },
+  {
+    "name": "year>",
+    "value": "1"
+  },
+  {
+    "name": "align>",
+    "value": "center"
+  },
+  {
+    "name": "captionAlign>",
+    "value": "center"
+  },
+  {
+    "name": "image>",
+    "value": "Mk Frankfurt Merian Stadtansicht.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "240"
+  },
+  {
+    "name": "caption>",
+    "value": "Frankfurt in 1612"
+  },
+  {
+    "name": "image>",
+    "value": "Frankfurt Am Main-Peter Becker-BAAF-032-Aussicht vom Steinernen Haus in der Judengasse nach Westen-1872.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "325"
+  },
+  {
+    "name": "caption>",
+    "value": "Frankfurt in 1872"
+  },
+  {
+    "name": "image>",
+    "value": "Hertel Kaiserplatz von Osten um 1880.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "345"
+  },
+  {
+    "name": "caption>",
+    "value": "Kaiserplatz, circa 1880"
+  },
+  {
+    "name": "image>",
+    "value": "Frankfurt Nationalversammlung 1848.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "340"
+  },
+  {
+    "name": "caption>",
+    "value": "The Frankfurt Parliament at St. Paul's Church in 1848"
+  },
+  {
+    "name": "image>",
+    "value": "Frankfurt Am Main-Altstadt-Zerstoerung-Luftbild 1944.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "305"
+  },
+  {
+    "name": "caption>",
+    "value": "Aerial view of the cathedral in May 1945"
+  },
+  {
+    "name": "image>",
+    "value": "Frankfurt Am Main-Samstagsberg-20070607.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "365"
+  },
+  {
+    "name": "caption>",
+    "value": "Reconstruction of six houses at the east side of the Römerberg which were destroyed in World War II"
+  },
+  {
+    "name": "location>",
+    "value": "Frankfurt Airport 1981–2010, extremes 1949–present"
+  },
+  {
+    "name": "metricFirst>",
+    "value": "Yes"
+  },
+  {
+    "name": "singleLine>",
+    "value": "Yes"
+  },
+  {
+    "name": "janRecordHighC>",
+    "value": "15.9"
+  },
+  {
+    "name": "febRecordHighC>",
+    "value": "19.1"
+  },
+  {
+    "name": "marRecordHighC>",
+    "value": "24.7"
+  },
+  {
+    "name": "aprRecordHighC>",
+    "value": "30.3"
+  },
+  {
+    "name": "mayRecordHighC>",
+    "value": "33.2"
+  },
+  {
+    "name": "junRecordHighC>",
+    "value": "39.3"
+  },
+  {
+    "name": "julRecordHighC>",
+    "value": "40.2"
+  },
+  {
+    "name": "augRecordHighC>",
+    "value": "38.7"
+  },
+  {
+    "name": "sepRecordHighC>",
+    "value": "32.8"
+  },
+  {
+    "name": "octRecordHighC>",
+    "value": "28"
+  },
+  {
+    "name": "novRecordHighC>",
+    "value": "19.1"
+  },
+  {
+    "name": "decRecordHighC>",
+    "value": "16.3"
+  },
+  {
+    "name": "janHighC>",
+    "value": "4.2"
+  },
+  {
+    "name": "febHighC>",
+    "value": "5.9"
+  },
+  {
+    "name": "marHighC>",
+    "value": "10.7"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "15.4"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "20"
+  },
+  {
+    "name": "junHighC>",
+    "value": "23.1"
+  },
+  {
+    "name": "julHighC>",
+    "value": "25.5"
+  },
+  {
+    "name": "augHighC>",
+    "value": "25.1"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "20.3"
+  },
+  {
+    "name": "octHighC>",
+    "value": "14.6"
+  },
+  {
+    "name": "novHighC>",
+    "value": "8.4"
+  },
+  {
+    "name": "decHighC>",
+    "value": "4.9"
+  },
+  {
+    "name": "yearHighC>",
+    "value": "14.8"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "1.6"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "2.4"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "6.4"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "10.3"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "14.7"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "17.8"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "20"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "19.5"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "15.2"
+  },
+  {
+    "name": "octMeanC>",
+    "value": "10.4"
+  },
+  {
+    "name": "novMeanC>",
+    "value": "5.6"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "2.5"
+  },
+  {
+    "name": "yearMeanC>",
+    "value": "10.6"
+  },
+  {
+    "name": "janLowC>",
+    "value": "-1.1"
+  },
+  {
+    "name": "febLowC>",
+    "value": "-1.1"
+  },
+  {
+    "name": "marLowC>",
+    "value": "2.1"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "4.9"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "9.1"
+  },
+  {
+    "name": "junLowC>",
+    "value": "12.3"
+  },
+  {
+    "name": "julLowC>",
+    "value": "14.4"
+  },
+  {
+    "name": "augLowC>",
+    "value": "14"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "10.5"
+  },
+  {
+    "name": "octLowC>",
+    "value": "6.6"
+  },
+  {
+    "name": "novLowC>",
+    "value": "2.8"
+  },
+  {
+    "name": "decLowC>",
+    "value": "-0.1"
+  },
+  {
+    "name": "yearLowC>",
+    "value": "6.2"
+  },
+  {
+    "name": "janRecordLowC>",
+    "value": "-21.6"
+  },
+  {
+    "name": "febRecordLowC>",
+    "value": "-19.6"
+  },
+  {
+    "name": "marRecordLowC>",
+    "value": "-13"
+  },
+  {
+    "name": "aprRecordLowC>",
+    "value": "-7.1"
+  },
+  {
+    "name": "mayRecordLowC>",
+    "value": "-2.8"
+  },
+  {
+    "name": "junRecordLowC>",
+    "value": "0.1"
+  },
+  {
+    "name": "julRecordLowC>",
+    "value": "2.8"
+  },
+  {
+    "name": "augRecordLowC>",
+    "value": "2.5"
+  },
+  {
+    "name": "sepRecordLowC>",
+    "value": "-0.3"
+  },
+  {
+    "name": "octRecordLowC>",
+    "value": "-6.3"
+  },
+  {
+    "name": "novRecordLowC>",
+    "value": "-11.5"
+  },
+  {
+    "name": "decRecordLowC>",
+    "value": "-17"
+  },
+  {
+    "name": "precipitationColour>",
+    "value": "green"
+  },
+  {
+    "name": "janPrecipitationMm>",
+    "value": "45"
+  },
+  {
+    "name": "febPrecipitationMm>",
+    "value": "41"
+  },
+  {
+    "name": "marPrecipitationMm>",
+    "value": "48"
+  },
+  {
+    "name": "aprPrecipitationMm>",
+    "value": "42"
+  },
+  {
+    "name": "mayPrecipitationMm>",
+    "value": "63"
+  },
+  {
+    "name": "junPrecipitationMm>",
+    "value": "58"
+  },
+  {
+    "name": "julPrecipitationMm>",
+    "value": "65"
+  },
+  {
+    "name": "augPrecipitationMm>",
+    "value": "57"
+  },
+  {
+    "name": "sepPrecipitationMm>",
+    "value": "53"
+  },
+  {
+    "name": "octPrecipitationMm>",
+    "value": "55"
+  },
+  {
+    "name": "novPrecipitationMm>",
+    "value": "49"
+  },
+  {
+    "name": "decPrecipitationMm>",
+    "value": "54"
+  },
+  {
+    "name": "yearPrecipitationMm>",
+    "value": "629"
+  },
+  {
+    "name": "janRainDays>",
+    "value": "16"
+  },
+  {
+    "name": "febRainDays>",
+    "value": "13"
+  },
+  {
+    "name": "marRainDays>",
+    "value": "14"
+  },
+  {
+    "name": "aprRainDays>",
+    "value": "14"
+  },
+  {
+    "name": "mayRainDays>",
+    "value": "15"
+  },
+  {
+    "name": "junRainDays>",
+    "value": "15"
+  },
+  {
+    "name": "julRainDays>",
+    "value": "14"
+  },
+  {
+    "name": "augRainDays>",
+    "value": "14"
+  },
+  {
+    "name": "sepRainDays>",
+    "value": "12"
+  },
+  {
+    "name": "octRainDays>",
+    "value": "12"
+  },
+  {
+    "name": "novRainDays>",
+    "value": "14"
+  },
+  {
+    "name": "decRainDays>",
+    "value": "16"
+  },
+  {
+    "name": "janSun>",
+    "value": "50"
+  },
+  {
+    "name": "febSun>",
+    "value": "80"
+  },
+  {
+    "name": "marSun>",
+    "value": "121"
+  },
+  {
+    "name": "aprSun>",
+    "value": "178"
+  },
+  {
+    "name": "maySun>",
+    "value": "211"
+  },
+  {
+    "name": "junSun>",
+    "value": "219"
+  },
+  {
+    "name": "julSun>",
+    "value": "233"
+  },
+  {
+    "name": "augSun>",
+    "value": "219"
+  },
+  {
+    "name": "sepSun>",
+    "value": "156"
+  },
+  {
+    "name": "octSun>",
+    "value": "103"
+  },
+  {
+    "name": "novSun>",
+    "value": "51"
+  },
+  {
+    "name": "decSun>",
+    "value": "41"
+  },
+  {
+    "name": "yearSun>",
+    "value": "1662"
+  },
+  {
+    "name": "janPercentsun>",
+    "value": "18"
+  },
+  {
+    "name": "febPercentsun>",
+    "value": "29"
+  },
+  {
+    "name": "marPercentsun>",
+    "value": "33"
+  },
+  {
+    "name": "aprPercentsun>",
+    "value": "42"
+  },
+  {
+    "name": "mayPercentsun>",
+    "value": "45"
+  },
+  {
+    "name": "junPercentsun>",
+    "value": "46"
+  },
+  {
+    "name": "julPercentsun>",
+    "value": "47"
+  },
+  {
+    "name": "augPercentsun>",
+    "value": "51"
+  },
+  {
+    "name": "sepPercentsun>",
+    "value": "40"
+  },
+  {
+    "name": "octPercentsun>",
+    "value": "30"
+  },
+  {
+    "name": "novPercentsun>",
+    "value": "19"
+  },
+  {
+    "name": "decPercentsun>",
+    "value": "16"
+  },
+  {
+    "name": "source>",
+    "value": "Weather Atlas"
+  },
+  {
+    "name": "location>",
+    "value": "Frankfurt Airport February 2011-February 2021"
+  },
+  {
+    "name": "janHighC>",
+    "value": "5.3"
+  },
+  {
+    "name": "febHighC>",
+    "value": "6.8"
+  },
+  {
+    "name": "marHighC>",
+    "value": "11.8"
+  },
+  {
+    "name": "aprHighC>",
+    "value": "17.4"
+  },
+  {
+    "name": "mayHighC>",
+    "value": "20.6"
+  },
+  {
+    "name": "junHighC>",
+    "value": "24.4"
+  },
+  {
+    "name": "julHighC>",
+    "value": "26.7"
+  },
+  {
+    "name": "augHighC>",
+    "value": "26.3"
+  },
+  {
+    "name": "sepHighC>",
+    "value": "21.7"
+  },
+  {
+    "name": "octHighC>",
+    "value": "15.5"
+  },
+  {
+    "name": "novHighC>",
+    "value": "9.3"
+  },
+  {
+    "name": "decHighC>",
+    "value": "6.6"
+  },
+  {
+    "name": "yearHighC>",
+    "value": "16"
+  },
+  {
+    "name": "janMeanC>",
+    "value": "3.1"
+  },
+  {
+    "name": "febMeanC>",
+    "value": "3.5"
+  },
+  {
+    "name": "marMeanC>",
+    "value": "7.2"
+  },
+  {
+    "name": "aprMeanC>",
+    "value": "11.8"
+  },
+  {
+    "name": "mayMeanC>",
+    "value": "15.1"
+  },
+  {
+    "name": "junMeanC>",
+    "value": "19.1"
+  },
+  {
+    "name": "julMeanC>",
+    "value": "21.1"
+  },
+  {
+    "name": "augMeanC>",
+    "value": "20.7"
+  },
+  {
+    "name": "sepMeanC>",
+    "value": "16.5"
+  },
+  {
+    "name": "octMeanC>",
+    "value": "11.7"
+  },
+  {
+    "name": "novMeanC>",
+    "value": "6.7"
+  },
+  {
+    "name": "decMeanC>",
+    "value": "4.5"
+  },
+  {
+    "name": "yearMeanC>",
+    "value": "11.7"
+  },
+  {
+    "name": "janLowC>",
+    "value": "0.7"
+  },
+  {
+    "name": "febLowC>",
+    "value": "0.1"
+  },
+  {
+    "name": "marLowC>",
+    "value": "2.4"
+  },
+  {
+    "name": "aprLowC>",
+    "value": "6.1"
+  },
+  {
+    "name": "mayLowC>",
+    "value": "9.6"
+  },
+  {
+    "name": "junLowC>",
+    "value": "13.7"
+  },
+  {
+    "name": "julLowC>",
+    "value": "15.5"
+  },
+  {
+    "name": "augLowC>",
+    "value": "15.1"
+  },
+  {
+    "name": "sepLowC>",
+    "value": "11.3"
+  },
+  {
+    "name": "octLowC>",
+    "value": "7.8"
+  },
+  {
+    "name": "novLowC>",
+    "value": "4"
+  },
+  {
+    "name": "decLowC>",
+    "value": "2.3"
+  },
+  {
+    "name": "yearLowC>",
+    "value": "7.4"
+  },
+  {
+    "name": "janPrecipitationMm>",
+    "value": "42.4"
+  },
+  {
+    "name": "febPrecipitationMm>",
+    "value": "29.7"
+  },
+  {
+    "name": "marPrecipitationMm>",
+    "value": "24.8"
+  },
+  {
+    "name": "aprPrecipitationMm>",
+    "value": "30.2"
+  },
+  {
+    "name": "mayPrecipitationMm>",
+    "value": "51.2"
+  },
+  {
+    "name": "junPrecipitationMm>",
+    "value": "51.9"
+  },
+  {
+    "name": "julPrecipitationMm>",
+    "value": "43"
+  },
+  {
+    "name": "augPrecipitationMm>",
+    "value": "57.4"
+  },
+  {
+    "name": "sepPrecipitationMm>",
+    "value": "39.6"
+  },
+  {
+    "name": "octPrecipitationMm>",
+    "value": "36.9"
+  },
+  {
+    "name": "novPrecipitationMm>",
+    "value": "41.1"
+  },
+  {
+    "name": "decPrecipitationMm>",
+    "value": "54.3"
+  },
+  {
+    "name": "yearPrecipitationMm>",
+    "value": "502.7"
+  },
+  {
+    "name": "janRainDays>",
+    "value": "11"
+  },
+  {
+    "name": "febRainDays>",
+    "value": "8"
+  },
+  {
+    "name": "marRainDays>",
+    "value": "7"
+  },
+  {
+    "name": "aprRainDays>",
+    "value": "6"
+  },
+  {
+    "name": "mayRainDays>",
+    "value": "8"
+  },
+  {
+    "name": "junRainDays>",
+    "value": "8"
+  },
+  {
+    "name": "julRainDays>",
+    "value": "8"
+  },
+  {
+    "name": "augRainDays>",
+    "value": "9"
+  },
+  {
+    "name": "sepRainDays>",
+    "value": "6"
+  },
+  {
+    "name": "octRainDays>",
+    "value": "9"
+  },
+  {
+    "name": "novRainDays>",
+    "value": "8"
+  },
+  {
+    "name": "decRainDays>",
+    "value": "12"
+  },
+  {
+    "name": "janSun>",
+    "value": "44"
+  },
+  {
+    "name": "febSun>",
+    "value": "86"
+  },
+  {
+    "name": "marSun>",
+    "value": "153"
+  },
+  {
+    "name": "aprSun>",
+    "value": "206"
+  },
+  {
+    "name": "maySun>",
+    "value": "231"
+  },
+  {
+    "name": "junSun>",
+    "value": "224"
+  },
+  {
+    "name": "julSun>",
+    "value": "240"
+  },
+  {
+    "name": "augSun>",
+    "value": "222"
+  },
+  {
+    "name": "sepSun>",
+    "value": "182"
+  },
+  {
+    "name": "octSun>",
+    "value": "100"
+  },
+  {
+    "name": "novSun>",
+    "value": "56"
+  },
+  {
+    "name": "decSun>",
+    "value": "34"
+  },
+  {
+    "name": "yearSun>",
+    "value": "1777"
+  },
+  {
+    "name": "source>",
+    "value": "wetteronline.de"
+  },
+  {
+    "name": "source>",
+    "value": "weatheronline.de"
+  },
+  {
+    "name": "align>",
+    "value": "right"
+  },
+  {
+    "name": "totalWidth>",
+    "value": "800"
+  },
+  {
+    "name": "image>",
+    "value": "Frankfurter Dom Eiserner Steg.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "200"
+  },
+  {
+    "name": "image>",
+    "value": "Frankfurt Am Main-Samstagsberg von Suedwesten-20110705.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "300"
+  },
+  {
+    "name": "image>",
+    "value": "Frankfurt Paulskirche außen 2011a.jpg"
+  },
+  {
+    "name": "image>",
+    "value": "Frankfurt Main Hauptwache Katharinenkirche 20120707.jpg"
+  },
+  {
+    "name": "caption>",
+    "value": "Hauptwache and St. Catherine's Church"
+  },
+  {
+    "name": "image>",
+    "value": "Frankfurt Nextower.20130514.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "130"
+  },
+  {
+    "name": "image>",
+    "value": "Frankfurt Main Hauptbahnhof 6229.jpg"
+  },
+  {
+    "name": "image>",
+    "value": "Fressgass Ffm April 2011 EVA 8761.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "352"
+  },
+  {
+    "name": "caption>",
+    "value": "Sidewalk cafés at Fressgass"
+  },
+  {
+    "name": "image>",
+    "value": "MyZeil Frankfurt Nacht.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "312"
+  },
+  {
+    "name": "caption>",
+    "value": "Shopping mall MyZeil"
+  },
+  {
+    "name": "image>",
+    "value": "Goethestrasse Rothofstrasse Ffm.jpg"
+  },
+  {
+    "name": "width>",
+    "value": "350"
+  },
+  {
+    "name": "caption>",
+    "value": "Luxury shopping at Goethestraße"
+  },
+  {
+    "name": "centre>",
+    "value": "Frankfurt am Main"
+  },
+  {
+    "name": "title>",
+    "value": "Articles related to Frankfurt"
+  }
+]

@@ -1,0 +1,616 @@
+[
+  {
+    "attribute_name": "Elevation",
+    "attribute_value": ["116.0", "116"],
+    "attribute_category": "Geography",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Total Area",
+    "attribute_value": ["2.1034E8", "210.34"],
+    "attribute_category": "Administrative",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Postal Codes",
+    "attribute_value": ["45001–45359", "45001"],
+    "attribute_category": "Administrative",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Area Code",
+    "attribute_value": ["0201, 02054 (Kettwig)", "20102054"],
+    "attribute_category": "Administrative",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Vehicle License Number",
+    "attribute_value": ["E"],
+    "attribute_category": "Administrative",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "WGS84 Latitude",
+    "attribute_value": ["51.450833333333335"],
+    "attribute_category": "Geography",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "WGS84 Longitude",
+    "attribute_value": ["7.013055555555556"],
+    "attribute_category": "Geography",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "GPS Coordinates (WGS84)",
+    "attribute_value": ["51.450833333333335 7.013055555555556"],
+    "attribute_category": "Geography",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "City Name",
+    "attribute_value": ["Essen"],
+    "attribute_category": "Administrative",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Image name of Flag",
+    "attribute_value": ["Flagge Essen.svg"],
+    "attribute_category": "Administrative",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Federal State",
+    "attribute_value": ["North Rhine-Westphalia"],
+    "attribute_category": "Administrative",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Region",
+    "attribute_value": ["Düsseldorf_(region)"],
+    "attribute_category": "Administrative",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "No of Divisions",
+    "attribute_value": ["9"],
+    "attribute_category": "Administrative",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Recorded High temperature in January",
+    "attribute_value": ["13.5"],
+    "attribute_category": "Weather",
+    "sub_category": "January"
+  },
+  {
+    "attribute_name": "Recorded High temperature in February",
+    "attribute_value": ["18.7"],
+    "attribute_category": "Weather",
+    "sub_category": "February"
+  },
+  {
+    "attribute_name": "Recorded High temperature in March",
+    "attribute_value": ["23.2"],
+    "attribute_category": "Weather",
+    "sub_category": "March"
+  },
+  {
+    "attribute_name": "Recorded High temperature in April",
+    "attribute_value": ["28.9"],
+    "attribute_category": "Weather",
+    "sub_category": "April"
+  },
+  {
+    "attribute_name": "Recorded High temperature in May",
+    "attribute_value": ["29.8"],
+    "attribute_category": "Weather",
+    "sub_category": "May"
+  },
+  {
+    "attribute_name": "Recorded High temperature in June",
+    "attribute_value": ["32.3"],
+    "attribute_category": "Weather",
+    "sub_category": "June"
+  },
+  {
+    "attribute_name": "Recorded High temperature in July",
+    "attribute_value": ["33.5"],
+    "attribute_category": "Weather",
+    "sub_category": "July"
+  },
+  {
+    "attribute_name": "Recorded High temperature in August",
+    "attribute_value": ["34.3"],
+    "attribute_category": "Weather",
+    "sub_category": "August"
+  },
+  {
+    "attribute_name": "Recorded High temperature in September",
+    "attribute_value": ["30.6"],
+    "attribute_category": "Weather",
+    "sub_category": "September"
+  },
+  {
+    "attribute_name": "Recorded High temperature in October",
+    "attribute_value": ["26.1"],
+    "attribute_category": "Weather",
+    "sub_category": "October"
+  },
+  {
+    "attribute_name": "Recorded High temperature in November",
+    "attribute_value": ["19.8"],
+    "attribute_category": "Weather",
+    "sub_category": "November"
+  },
+  {
+    "attribute_name": "Recorded High temperature in December",
+    "attribute_value": ["15.8"],
+    "attribute_category": "Weather",
+    "sub_category": "December"
+  },
+  {
+    "attribute_name": "Mean Temperature in January",
+    "attribute_value": ["2.4", "1.9"],
+    "attribute_category": "Weather",
+    "sub_category": "January"
+  },
+  {
+    "attribute_name": "Mean Temperature in February",
+    "attribute_value": ["2.9", "2.5"],
+    "attribute_category": "Weather",
+    "sub_category": "February"
+  },
+  {
+    "attribute_name": "Mean Temperature in March",
+    "attribute_value": ["6", "5.1"],
+    "attribute_category": "Weather",
+    "sub_category": "March"
+  },
+  {
+    "attribute_name": "Mean Temperature in April",
+    "attribute_value": ["8.9", "8.5"],
+    "attribute_category": "Weather",
+    "sub_category": "April"
+  },
+  {
+    "attribute_name": "Mean Temperature in May",
+    "attribute_value": ["13.4", "12.9"],
+    "attribute_category": "Weather",
+    "sub_category": "May"
+  },
+  {
+    "attribute_name": "Mean Temperature in June",
+    "attribute_value": ["15.8", "15.7"],
+    "attribute_category": "Weather",
+    "sub_category": "June"
+  },
+  {
+    "attribute_name": "Mean Temperature in July",
+    "attribute_value": ["18", "17.4"],
+    "attribute_category": "Weather",
+    "sub_category": "July"
+  },
+  {
+    "attribute_name": "Mean Temperature in August",
+    "attribute_value": ["18", "17.2"],
+    "attribute_category": "Weather",
+    "sub_category": "August"
+  },
+  {
+    "attribute_name": "Mean Temperature in September",
+    "attribute_value": ["14.7", "14.4"],
+    "attribute_category": "Weather",
+    "sub_category": "September"
+  },
+  {
+    "attribute_name": "Mean Temperature in October",
+    "attribute_value": ["10.7"],
+    "attribute_category": "Weather",
+    "sub_category": "October"
+  },
+  {
+    "attribute_name": "Mean Temperature in November",
+    "attribute_value": ["5.9", "5.7"],
+    "attribute_category": "Weather",
+    "sub_category": "November"
+  },
+  {
+    "attribute_name": "Mean Temperature in December",
+    "attribute_value": ["3.6", "2.9"],
+    "attribute_category": "Weather",
+    "sub_category": "December"
+  },
+  {
+    "attribute_name": "High Temperature in January",
+    "attribute_value": ["4.5", "3.9"],
+    "attribute_category": "Weather",
+    "sub_category": "January"
+  },
+  {
+    "attribute_name": "High Temperature in February",
+    "attribute_value": ["5.5", "5.1"],
+    "attribute_category": "Weather",
+    "sub_category": "February"
+  },
+  {
+    "attribute_name": "High Temperature in March",
+    "attribute_value": ["9.1", "8.3"],
+    "attribute_category": "Weather",
+    "sub_category": "March"
+  },
+  {
+    "attribute_name": "High Temperature in April",
+    "attribute_value": ["12.7", "12.4"],
+    "attribute_category": "Weather",
+    "sub_category": "April"
+  },
+  {
+    "attribute_name": "High Temperature in May",
+    "attribute_value": ["17.6", "17.1"],
+    "attribute_category": "Weather",
+    "sub_category": "May"
+  },
+  {
+    "attribute_name": "High Temperature in June",
+    "attribute_value": ["19.9", "20"],
+    "attribute_category": "Weather",
+    "sub_category": "June"
+  },
+  {
+    "attribute_name": "High Temperature in July",
+    "attribute_value": ["22.2", "21.6"],
+    "attribute_category": "Weather",
+    "sub_category": "July"
+  },
+  {
+    "attribute_name": "High Temperature in August",
+    "attribute_value": ["22.3", "21.6"],
+    "attribute_category": "Weather",
+    "sub_category": "August"
+  },
+  {
+    "attribute_name": "High Temperature in September",
+    "attribute_value": ["18.3", "18.4"],
+    "attribute_category": "Weather",
+    "sub_category": "September"
+  },
+  {
+    "attribute_name": "High Temperature in October",
+    "attribute_value": ["13.7", "14"],
+    "attribute_category": "Weather",
+    "sub_category": "October"
+  },
+  {
+    "attribute_name": "High Temperature in November",
+    "attribute_value": ["8.2", "8.1"],
+    "attribute_category": "Weather",
+    "sub_category": "November"
+  },
+  {
+    "attribute_name": "High Temperature in December",
+    "attribute_value": ["5.6", "4.9"],
+    "attribute_category": "Weather",
+    "sub_category": "December"
+  },
+  {
+    "attribute_name": "Low Temperature in January",
+    "attribute_value": ["0.2", "-0.3"],
+    "attribute_category": "Weather",
+    "sub_category": "January"
+  },
+  {
+    "attribute_name": "Low Temperature in February",
+    "attribute_value": ["0.3", "0"],
+    "attribute_category": "Weather",
+    "sub_category": "February"
+  },
+  {
+    "attribute_name": "Low Temperature in March",
+    "attribute_value": ["2.9", "2.2"],
+    "attribute_category": "Weather",
+    "sub_category": "March"
+  },
+  {
+    "attribute_name": "Low Temperature in April",
+    "attribute_value": ["5", "4.8"],
+    "attribute_category": "Weather",
+    "sub_category": "April"
+  },
+  {
+    "attribute_name": "Low Temperature in May",
+    "attribute_value": ["9.1", "8.7"],
+    "attribute_category": "Weather",
+    "sub_category": "May"
+  },
+  {
+    "attribute_name": "Low Temperature in June",
+    "attribute_value": ["11.6", "11.5"],
+    "attribute_category": "Weather",
+    "sub_category": "June"
+  },
+  {
+    "attribute_name": "Low Temperature in July",
+    "attribute_value": ["13.7", "13.2"],
+    "attribute_category": "Weather",
+    "sub_category": "July"
+  },
+  {
+    "attribute_name": "Low Temperature in August",
+    "attribute_value": ["13.7", "13.3"],
+    "attribute_category": "Weather",
+    "sub_category": "August"
+  },
+  {
+    "attribute_name": "Low Temperature in September",
+    "attribute_value": ["11.1"],
+    "attribute_category": "Weather",
+    "sub_category": "September"
+  },
+  {
+    "attribute_name": "Low Temperature in October",
+    "attribute_value": ["7.6", "7.9"],
+    "attribute_category": "Weather",
+    "sub_category": "October"
+  },
+  {
+    "attribute_name": "Low Temperature in November",
+    "attribute_value": ["3.6", "3.5"],
+    "attribute_category": "Weather",
+    "sub_category": "November"
+  },
+  {
+    "attribute_name": "Low Temperature in December",
+    "attribute_value": ["1.6", "0.9"],
+    "attribute_category": "Weather",
+    "sub_category": "December"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in January",
+    "attribute_value": ["-17.1"],
+    "attribute_category": "Weather",
+    "sub_category": "January"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in February",
+    "attribute_value": ["-15.9"],
+    "attribute_category": "Weather",
+    "sub_category": "February"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in March",
+    "attribute_value": ["-11.1"],
+    "attribute_category": "Weather",
+    "sub_category": "March"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in April",
+    "attribute_value": ["-4.6"],
+    "attribute_category": "Weather",
+    "sub_category": "April"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in May",
+    "attribute_value": ["-0.6"],
+    "attribute_category": "Weather",
+    "sub_category": "May"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in June",
+    "attribute_value": ["1"],
+    "attribute_category": "Weather",
+    "sub_category": "June"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in July",
+    "attribute_value": ["4.4"],
+    "attribute_category": "Weather",
+    "sub_category": "July"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in August",
+    "attribute_value": ["6"],
+    "attribute_category": "Weather",
+    "sub_category": "August"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in September",
+    "attribute_value": ["3.2"],
+    "attribute_category": "Weather",
+    "sub_category": "September"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in October",
+    "attribute_value": ["-2.3"],
+    "attribute_category": "Weather",
+    "sub_category": "October"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in November",
+    "attribute_value": ["-6.7"],
+    "attribute_category": "Weather",
+    "sub_category": "November"
+  },
+  {
+    "attribute_name": "Recorded Low temperature in December",
+    "attribute_value": ["-16.7"],
+    "attribute_category": "Weather",
+    "sub_category": "December"
+  },
+  {
+    "attribute_name": "Color of Precipitation",
+    "attribute_value": ["green"],
+    "attribute_category": "Weather",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Precipitation in January (mm)",
+    "attribute_value": ["84.5", "81"],
+    "attribute_category": "Weather",
+    "sub_category": "January"
+  },
+  {
+    "attribute_name": "Precipitation in February (mm)",
+    "attribute_value": ["58.1", "57"],
+    "attribute_category": "Weather",
+    "sub_category": "February"
+  },
+  {
+    "attribute_name": "Precipitation in March (mm)",
+    "attribute_value": ["78.2", "75"],
+    "attribute_category": "Weather",
+    "sub_category": "March"
+  },
+  {
+    "attribute_name": "Precipitation in April (mm)",
+    "attribute_value": ["61", "68"],
+    "attribute_category": "Weather",
+    "sub_category": "April"
+  },
+  {
+    "attribute_name": "Precipitation in May (mm)",
+    "attribute_value": ["72.2", "73"],
+    "attribute_category": "Weather",
+    "sub_category": "May"
+  },
+  {
+    "attribute_name": "Precipitation in June (mm)",
+    "attribute_value": ["92.8", "97"],
+    "attribute_category": "Weather",
+    "sub_category": "June"
+  },
+  {
+    "attribute_name": "Precipitation in July (mm)",
+    "attribute_value": ["81.2", "89"],
+    "attribute_category": "Weather",
+    "sub_category": "July"
+  },
+  {
+    "attribute_name": "Precipitation in August (mm)",
+    "attribute_value": ["78.8", "77"],
+    "attribute_category": "Weather",
+    "sub_category": "August"
+  },
+  {
+    "attribute_name": "Precipitation in September (mm)",
+    "attribute_value": ["78", "73"],
+    "attribute_category": "Weather",
+    "sub_category": "September"
+  },
+  {
+    "attribute_name": "Precipitation in October (mm)",
+    "attribute_value": ["75.1", "70"],
+    "attribute_category": "Weather",
+    "sub_category": "October"
+  },
+  {
+    "attribute_name": "Precipitation in November (mm)",
+    "attribute_value": ["81.1", "83"],
+    "attribute_category": "Weather",
+    "sub_category": "November"
+  },
+  {
+    "attribute_name": "Precipitation in December (mm)",
+    "attribute_value": ["93.1", "90"],
+    "attribute_category": "Weather",
+    "sub_category": "December"
+  },
+  {
+    "attribute_name": "Average sunlight for January",
+    "attribute_value": ["44.5"],
+    "attribute_category": "Weather",
+    "sub_category": "January"
+  },
+  {
+    "attribute_name": "Average sunlight for February",
+    "attribute_value": ["76.2"],
+    "attribute_category": "Weather",
+    "sub_category": "February"
+  },
+  {
+    "attribute_name": "Average sunlight for March",
+    "attribute_value": ["102.6"],
+    "attribute_category": "Weather",
+    "sub_category": "March"
+  },
+  {
+    "attribute_name": "Average sunlight for April",
+    "attribute_value": ["147"],
+    "attribute_category": "Weather",
+    "sub_category": "April"
+  },
+  {
+    "attribute_name": "Average sunlight for May",
+    "attribute_value": ["192.6"],
+    "attribute_category": "Weather",
+    "sub_category": "May"
+  },
+  {
+    "attribute_name": "Average sunlight for June",
+    "attribute_value": ["181.6"],
+    "attribute_category": "Weather",
+    "sub_category": "June"
+  },
+  {
+    "attribute_name": "Average sunlight for July",
+    "attribute_value": ["186"],
+    "attribute_category": "Weather",
+    "sub_category": "July"
+  },
+  {
+    "attribute_name": "Average sunlight for August",
+    "attribute_value": ["183.1"],
+    "attribute_category": "Weather",
+    "sub_category": "August"
+  },
+  {
+    "attribute_name": "Average sunlight for September",
+    "attribute_value": ["134.5"],
+    "attribute_category": "Weather",
+    "sub_category": "September"
+  },
+  {
+    "attribute_name": "Average sunlight for October",
+    "attribute_value": ["111.1"],
+    "attribute_category": "Weather",
+    "sub_category": "October"
+  },
+  {
+    "attribute_name": "Average sunlight for November",
+    "attribute_value": ["55.7"],
+    "attribute_category": "Weather",
+    "sub_category": "November"
+  },
+  {
+    "attribute_name": "Average sunlight for December",
+    "attribute_value": ["38.8"],
+    "attribute_category": "Weather",
+    "sub_category": "December"
+  },
+  {
+    "attribute_name": "Caption of Image",
+    "attribute_value": [
+      "Clockwise from top: Skyline of the city, Essen Business District, Essen Minster, Villa Hügel, Essen Saalbau, UNESCO world heritage site Zollverein Coal Mine Industrial Complex, Borbeck Castle, ThyssenKrupp Headquarters"
+    ],
+    "attribute_category": "Administrative",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Leader Name",
+    "attribute_value": ["Thomas_Kufen"],
+    "attribute_category": "Political",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Title of Leader",
+    "attribute_value": ["Oberbürgermeister"],
+    "attribute_category": "Political",
+    "sub_category": "NULL"
+  },
+  {
+    "attribute_name": "Website",
+    "attribute_value": ["https://www.essen.de/"],
+    "attribute_category": "Administrative",
+    "sub_category": "NULL"
+  }
+]
